@@ -1,0 +1,95 @@
+reqs,is_functional
+The leads washing functionality will insert all leads captured by the web service.,1
+The number of mistakes noted by the students shall be decreased by 50% in the first year.,0
+A primary database will be used to store cached data for active users.,0
+The product must be able to interface with various email servers. The product shall be able to send email.,0
+The system shall display the local and exercise time in separate clocks,1
+The estimator shall search by zipcode with a radius of 30 miles if no parts are found for the preferred parts suppliers,1
+The product shall use a standard navigation menu familiar to most web users.,0
+The product shall comply with insurance regulations regarding claims processing.,0
+Program Administrators and Nursing Staff Members shall be able to add new classes for the nursing department into the system.,1
+The product shall be able to be installed in the specified environment within 1 working day.,0
+The product shall provide players no access to information that might reveal the identity of another player,0
+Only managers are able to perform search queries for reservations by user. 100% of all search queries for reservations by user shall be from logons of only management logons.,1
+The Disputes application shall manipulate and view business data. Users will not have direct access to data files or databases.,1
+Realtor shall be able to generate a CMA report based on property criteria,1
+The System shall be able to automatically backup business data and restore them on demand.,1
+The Disputes System must provide different levels of access with regard to disputes case initiation and follow-up actions.,0
+The system shall help the user avoid making mistakes while scheduling classes and clinicals for the nursing students.,0
+The Disputes applications shall interface with the Merchant Information Database. The Merchant Information Database provides detailed information with regard to the merchant. All merchant detail information shall be obtained from the Merchant Information Database.,0
+One insurance company shall not be able to view another insurance companys claim data.,0
+he Disputes application shall be available 24x7x365 with the exception of the following scheduled maintenance windows. Monday  Saturday 3:00am to 4:00am EST Sunday 1:00amd to 5:00am EST,0
+The current repair facility ratings shall be displayed to the user.,1
+he system shall be easy to use by callers and supervisors. Callers and supervisors must be able to accomplish any system task within 2 minutes.,0
+The product shall allow a player to position ships horizontally on their grid.,1
+The audit report shall include the number of available recycled parts from the original search results.,1
+The realtor shall be notified of new client appointments after automatic synchronization with office system,1
+The product shall protect the identity of the players. The product shall provide players no access to information that might reveal the identity of another player.,0
+The System shall allow on demand generation of all Inventory Quantity Adjustment documents since certain point of time.,1
+The product shall assign the organizers contact information to each meeting they create.,1
+The system interface will use CCR nomenclature. The system must use the same nomenclature used in the existing WCS system and reports,0
+Once a game is initiated the product shall display a defensive grid to each player,1
+All CCR users shall receive training before the WCS system is deployed. One training session will be held for 100% of CCR users before system deployment (based on a CCR user being available),0
+Administrator shall be able to activate a pre-paid card via the Administration section in under 5 seconds.,1
+Promotional updates to the website should take a day to update.,0
+The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds.,0
+The product shall operate with every platform.The product shall accommodate any new technology without any change in its architecture.,0
+The product shall synchronize contacts and appointments in an acceptable time.,1
+The product shall have an intuitive user interface.,0
+Users should only have to navigate through a maximum of 4 pages to create an account with the website.,0
+very registered user will have access to the product's support site via the Internet. 70% of registered users shall find a solution to their problem within 5 minutes of using the support site.,0
+The product must be able to interface with various database management systems. The product shall communicate successfully with the database management system on 100% of all transactions.,0
+he Disputes System shall generate a User Report that details any new users that have been added and any changes to an existing user's access level. The report will be reviewed for auditing purposes.,1
+The product shall be robust.The product shall have fault avoidance based on standards adoption.,0
+The language of the product shall accommodate all of the target market countries. 90% of survey respondents from each target market country will find that the language of the product is acceptable.,0
+ystem shall let customers register on the website as a unlimited movie subscriber user in under 10 minutes.,1
+The product shall run on the existing hardware for all environments.,0
+The audit report shall include the total score of the audit which sums the indivual line items.,1
+The product shall comply with City of Chicago Application Development Guide Framework.Application Development Framework will provide structured Graphical User Interface.,0
+When the hit results in sinking a ship the product shall notify the players that the ship was sunk.,1
+2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.,1
+The system shall be able to display a printable summary for individual cohorts which will include the students enlisted the Program of study sequence of classes cohort progress through the program and timeline of completion.,1
+The product shall adhere to the corporate Architecture guidelines,0
+The available recycled parts information and their suppliers shall be returned to the user.,1
+Product installations and upgrades shall be handled by the middleware technology team within established launch time frames.,0
+System shall let the administrator add/remove categories on the website in under 5 minutes.,1
+The product shall record meeting entries.,1
+Each time a conference room is reserved the conference room schedule shall be updated to reflect the time and date of the reservation.,1
+he product shall ensure that only supervisors can advertise empty time slots.The product must ensure that supervisors are allowed to access advertise empty time slots.,1
+The product shall respond fast to keep up-to-date data in the display.,0
+A non-clinical class shall specify the course name lecture room requirements and instructor needs.,0
+ystem shall allow users to update their billing and contact information via the My Account section of the website.,1
+The product shall interface with the ChoiceParts system once per day at approximately 1:00 AM.,0
+The application shall ask the user to confirm dropping a player or trading a player before performing the action.,1
+The product shall be robust with fault tolerance.The product shall have fault tolerance by using recovery technique compensatory transaction and routing around failures.,0
+Only adjusters with a supervisor role can update preferred repair facility ratings. Users without the supervisor role cannot access the repair facility ratings.,1
+hen streaming a movie the buffering time should take no longer than 10 seconds (plus any latency on the user's connection.),0
+The Disputes application shall interface with the Letters application. This will allow the Disputes application to request letters as part of the dispute initiation and dispute follow up process. All letter requests must be sent to the Print Letter Utility application.,0
+The product shall display conference rooms according to search parameters.,1
+The leads washing functionality will use the parameters supplied by corporate and schools to score part of the lead.,1
+The system shall allow modification of the display.,1
+The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.,0
+The system shall generate an audit report based on the available recycled parts and the collision estimate.,1
+The product must be developed with the J2SE/J2EE programming language libraries,0
+The system shall notify the realtor when a seller or buyer responds to an appointment request,1
+Program Administrators/Nursing Staff Members shall be able to cancel a clinical lab section only if there are no students registered for that clinical lab section.,1
+The vehicle location shall include street address city state and zipcode,0
+The Disputes System must provide a confirmation to the user upon the creation of ticket retrieval request that contains the following information; the dispute case number the type of retrieval requested (copy original or portfolio) and the date that the merchant response is due.,1
+The vehicle data shall include vehicle year make and model,0
+Washing parameters will be updated during scheduled maintenance hours.,0
+The system shall allow a Program Administrator or Nursing staff member to remove a student from a clinical lab section.,1
+The product shall allow for customization of start page and views preferences.,0
+Product formula substitutionary ingredients shall be entered automatically by the PFE subsystem.,1
+Website shall allow customers to browse movies by categories entered in by izogn administrator.,1
+The website shall continue to operate if the payment gateway goes down.,0
+he system shall be easy to learn by callers and supervisors. Callers and supervisors shall learn how to use the system within 10 minutes.,0
+The system will display a blank set of ratings if there are not ratings yet defined.,1
+The preferred repair facility shall be returned to the user.,1
+The website shall be attractive to all audiences. The website shall appear to be fun and the colors should be bright and vibrant.,0
+The product shall be expected to operate within the maximum maintenance budget for a minimum of 2 years.,0
+The product shall maintain a list of players.,1
+The product shall update existing conference rooms.,1
+Once a game has been initiated the product shall make the players assigned to the game unavailable for selection from the list of players.,1
+The system shall retain the available recycled parts and suppliers returned from the search.,1
+n a 112k connection or faster the system response time for all operations must be no more than 3 seconds 90% of the time.,0
+shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.,1

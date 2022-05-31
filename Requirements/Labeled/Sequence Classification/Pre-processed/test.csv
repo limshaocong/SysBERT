@@ -1,0 +1,95 @@
+reqs,is_functional
+The system shall be displayable on any work computer a CCR user may have. The system interface shall be formatted to display at 800 by 600 pixel resolution.,0
+The product shall provide Portals.The product shall help System Administrators to analyze the transactions with ad-hoc reporting and KPIs (Key Performance Indicators),1
+The user shall select to save the preferred repair facility ratings.,1
+he system shall have high availability every day of the year.The system must be available for use between 12:00AM and 6:00PM all days of the year.,0
+Only authorized users shall have access to the portion of the system that interfaces with CampusConnect.,0
+The product shall be easy for a realtor to learn.,0
+The System shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.,0
+The product shall have the ability to receive automatic software updates as new threats emerge. 100% of customers will be able to receive automatic software updates transmitted to the installed product.,0
+For each shot the product shall notify the players whether the shot was a hit or miss.,1
+The System shall meet all applicable accounting standards. The final version of the System must successfully pass independent audit performed by a certified auditor.,0
+The product shall be easy to learn by Adjusters and Collision Estimators. The product shall be learned with two days onsite training,0
+The product shall use symbols and words that are naturally understandable by users familiar with websites,0
+Only the System Administrator shall be able to reset a revoked user logon account,0
+All of the users shall be able to use the system after one day of training.,0
+The system shall provide a history report of changes made to the Activity or Event data,1
+The user shall be able to download appointments and contact information for clients,1
+All updates to data files or database must be initiated from the Disputes System.,0
+The audit report shall be displayed to the user.,1
+The system shall only be accessed by authorized Corporate Community Grants (CCR) employees. Users must be authenticated using their IBM intranet user name and password.,0
+he system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members' planning purposes.,1
+he interface shall have a simple look. In the interface and usability survey 90% of beta testers must report that the interface is adequately simple.,0
+If the leads score falls within the medium average then it will be set for manual verification by an Enrollment Coordinator through the eleads system.,1
+The product shall have a customizable Look and Feel.,1
+The system shall allow a real estate agent to query MLS information,1
+All credit card information will be encrypted in the database.,0
+The system will provide a 24 hour 800 toll free number for support to its customers.,0
+Defect reports will be available to technical units on a 24x7 basis.,0
+The website shall prevent its data from being corrupted when incorrect data is entered in.,0
+Only users with Update access must be able to initiate dispute requests.,1
+Each page shall contain a similar format with action items in one location and navigation buttons in a different location.,0
+The PHP code will comply with PEAR standards.,0
+The vendor will verify the invalid lead.,1
+The user shall search for the preferred repair facility using vehicle vehicle location and radius in miles,1
+When a shot is marked as a hit the product shall simulate the sound of a shot hitting its target.,1
+The Disputes System must provide the ability to view existing dispute cases.,1
+The product shall interface CSR and Datastream.The product shall exchange messages between CSR and EAM on a real time basis without any direct interfaces between two systems.,0
+A class shall be either a non-clinical class or a clinical class.,0
+The streaming server will have anti-virus software to prevent infection of malicious viruses.,0
+The Disputes System must provide the user the ability to initiate a single dispute case on multiple transactions that belong to a single merchant.,1
+Only adjusters can request recycled parts audit reports. No users without an adjuster role shall request recycled parts audits.,1
+The System shall allow entering storing and modifying product formulas.,1
+The product shall be expected to operate for at least 5 years for each customer installation.,0
+Website shall allow customers to add their own movie review for a selected movie.,1
+Program Administrators/Nursing Staff Members are the only people who shall have access to clinical site details.,0
+The system shall be available for use between the hours of 8am and 6pm.,0
+he system shall be responsive. At the DePaul TeleServices Center when a supervisor uses the system to view a callers schedule the system response time must be no more than 2 seconds 90% of the time and no more than 5 seconds the rest of the time.,0
+he product shall be internet browser independent.The product must run using Internet Explorer and Netscape Navigator.,0
+Program Administrators and Nursing Staff Members shall be able to add a new clinical site into the system.,1
+The application shall have a downtime of at most 10 minutes per year.,0
+PME Subsystem shall allow building product menus based on the list of products kept in the accounting system.,1
+The product shall continue to assign turns until the game is ended.,1
+All business rules specified in the Disputes System shall be in compliance with the Merchant Operating Regulations.,0
+The system shall be able to display a printable summary for individual clinical labs which will include (but not be limited to) class name class number lab section listing of students enrolled instructor day(s) time and location.,1
+The product shall be supported using the corporate support center.,0
+The user shall be able to get driving directions to a selected property,1
+The Disputes System must allow the user to create three unique types of ticket retrieval requests. The three types of ticket retrieval requests are (1) Request for original receipt (2) Request for a copy of the receipt or (3) Request for a portfolio. A portfolio consists of documentation that would provide proof of a purchase such as the documentation that is received from a car rental agency that is more than a sales receipt.,1
+For each turn the product shall identify one player as offensive status and one player as defensive status.,1
+The leads washing functionality will have an interface in which lead data parameters can be maintained.,1
+The System shall not require additional third party licenses resulting in royalty fees.,0
+he product shall ensure that only supervisors can enter a caller's schedule.The product must ensure that supervisors are allowed to access advertise empty time slots.,1
+The product will be available for licensing as a one-server two-five servers or five-or-more servers license.,0
+The intranet pages should display appropriately in all resolutions from 800x600 and higher. The display of all the pages will be correct in 95% of the resolutions prior to implementation. The remaining 5% will be corrected within a week of notification of the incorrect display.,0
+ll additions of new users and modifications to user's access shall be recorded on the User Report.,1
+Only authorized users shall have access to clinical site information.,0
+A clinical lab section shall include the clinical site name the class instructor day and time of the lab.,0
+Total lead cycle time must be completed in 5 minutes for 90% of lead volume between the business hours of 8AM CST to 8PM CST; then 3 minutes for 99% of lead volume during off business hours.,0
+The product shall provide Asynchronous Messaging.The product shall provide asynchronous messaging to enable parallel processing and reduce the overhead in communications,1
+PME Subsystem shall allow for a product to exist in more than one submenu,1
+The product shall make inactive players unavailable for selection from the list of players.,1
+The RFS system should be available 24/7 especially during the budgeting period. The RFS system shall be available 90% of the time all year and 98% during the budgeting period. 2% of the time the system will become available within 1 hour of the time that the situation is reported.,0
+The system shall update or create new property listings in the MLS,1
+The system shall offer a display of all the Events in the exercise.,1
+The product shall achieve a 98% uptime. The product shall not fail more than 2% of the available online time.,0
+The lead washing process will operate within the established physical web service structure.,0
+The product shall prevent the player from overlapping ships on their grid.,1
+he system shall use the organization's standard virus protection software to help monitor threats to itself.,0
+hile streaming a movie buffering should only occur if there is latency in the user's connection.,0
+The system shall display Events or Activities.,1
+The product shall provide GUI based Monitoring Services.System Administrators shall monitor message exchanges will predict and determine problems and will also provide internal and external support.,1
+Website must be fully operational with MSN TV2.,0
+All registered customer information shall be stored and maintained in the database even after the customer cancels their account.,1
+If the leads score falls within the high average score then it will be process by the ARA functionality.,1
+The Disputes application must maintain a detailed history of every action that a user takes on a dispute case. This ensures a complete audit trail if questions arise later on with regard to a particular dispute case.,1
+The product shall send a meeting confirmation to the meeting organizer.,1
+he interface shall be appealing to callers and supervisors. In the interface and usability survey 80% of beta testers must report that the interface is appealing.,0
+A new user must be able to be added to the system within 10 minutes. 90% of new users are able to log into the system within 10 minutes.,0
+The user interface shall have standard menus buttons for navigation,0
+All screens created as part of the Disputes application must comply with corporate standards for interface creation.,0
+The website will comply with W3C standards.,0
+An anonymous survey will show that 95% of customers are comfortable using and purchasing pre-paid cards after a month of using the system.,0
+The product shall be able to store new room equipment.,1
+User access should be limited to the permissions granted to their role(s) Each level in the PCG hierarchy will be assigned a role and users will be assigned to these roles. Access to functionality within RFS system is dependent on the privileges/permission assigned to the role..,0
+Pre-paid cards shall be distributed via email or via a printed paper card.,1
+Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Clinical Lab Section including the clinical site name the department/section for the lab the class instructor day and time of lab and contact information.,1
