@@ -1,0 +1,144 @@
+reqs,is_functional
+All business rules specified in the Disputes System shall be in compliance to the guidelines of Regulation E and Regulation Z.,0
+Response time for common edit operations (change attributes and structure) shall be less than 1s.,0
+When purchasing a streaming movie or pre-paid card via credit card the processing time should have a maximum response time of 15 seconds.,0
+The product shall have a customizable Look and Feel.,1
+The product will function alongside server software on any operating system where the Java runtime can be installed.,0
+Program Administrators and Nursing Staff Members shall be able to add new classes to a sequence of classes,1
+The system must offer effective search and discovery mechanism including a variety of browse options and keyword searching,1
+The system shall offer a display of all the Events in the exercise.,1
+The application shall not send any project data to the internet (except upload of document to Google Drive by the user).,0
+The system shall notify the realtor when a seller or buyer responds to an appointment request,1
+When a ship is sunk the product shall simulate the sound of a sinking ship.,1
+he system shall be easy to use by callers and supervisors. Callers and supervisors must be able to accomplish any system task within 2 minutes.,0
+The Disputes System shall record the name of the user and the date for any activity that creates or modifies the disputes case in the system. A detailed history of the actions taken on the case including the date and the user that performed the action must be maintained for auditing purposes.,1
+The Disputes System must prevent external users from requesting original receipts. Requests for original receipts are restricted to internal users.,1
+The available recycled parts information and their suppliers shall be returned to the user.,1
+User shall be able to display and hide Attributes Panel containing list of custom attributes of the selected requirement in the Requirements Table,1
+User shall be able to expand and collapse all changes in the History Panel.,1
+The product shall be able to handle up to 1500 simultaneous users. The system shall perform with 1500 users as a time.,0
+The preferred repair facility shall be returned to the user.,1
+Program Administrators/Nursing Staff Members shall have the ability to modify information relating to cohorts including cohort identifier program of study preferred sequence of classes and quarters that a cohort will be taking specific classes.,1
+When requested  if a mission is currently active  the MissionPlanner shall cancel the active mission.,1
+The WASP platform shall provide functionality to find points of interest that match the user's explicit need and obey the restrictions following from the user's profile and current context.,1
+The SingleUAVFlightPlanScheduler shall only execute one flight plan at a time for each UAV.,1
+A WASP application must be authorized by the end-user before charging his account.,0
+The language of the product shall accommodate all of the target market countries. 90% of survey respondents from each target market country will find that the language of the product is acceptable.,0
+The product shall allow the user to save the property search results.,1
+The Disputes System must provide the ability to view existing dispute cases.,1
+The product shall allow a player to end a game at any time during the game.,1
+The recycled parts audit report shall be returned to the user within 10 seconds. The audit report shall be returned within 10 seconds.,1
+Only users with Update access must be able to initiate dispute requests.,1
+The system will use the stored e-mail addresses as a primary means of communicating information to affected parties.,1
+The audit report shall be displayed to the user.,1
+The system must support staged deposit workflow including an administrative area for quality checking prior to data publication.,1
+When a UAV's current flight is cancelled  the SingleUAVFlightPlanScheduler shall in turn cancel all scheduled flight plans for that UAV.,1
+The product shall be easy to learn by Adjusters and Collision Estimators. The product shall be learned with two days onsite training,0
+The System shall allow entering storing and modifying product formulas.,1
+Users should be able to access their streaming movies in under 2 clicks after logging into the website.,1
+One insurance company shall not be able to view another insurance companys claim data.,0
+The product shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.,0
+The Disputes System must allow the user to create three unique types of ticket retrieval requests. The three types of ticket retrieval requests are (1) Request for original receipt (2) Request for a copy of the receipt or (3) Request for a portfolio. A portfolio consists of documentation that would provide proof of a purchase such as the documentation that is received from a car rental agency that is more than a sales receipt.,1
+The WCS system shall have the ability to include data for regions outside the United States and be accessed by users outside of the United States if approved by CCR management.,0
+tudents added to a cohort shall be eligible for the cohort's Program of Study.,1
+A class shall be either a non-clinical class or a clinical class.,0
+The product shall run on the existing hardware for all environments.,0
+The product shall allow a player to initiate a game by selecting another available player from the list of players.,1
+The system must hold funder and grant metadata associated with one or more repository records.,1
+User shall be able to save the current document to user's Google Drive providing its name and password for encryption,1
+The product shall respond fast to keep up-to-date data in the display.,0
+Only adjusters can request recycled parts audit reports. No users without an adjuster role shall request recycled parts audits.,1
+"New comments shall be stored with the current date and time, and author contact details name, email and company (see User Settings).",1
+The WASP platform must provide services that may be used by WASP applications in order to personalize content for a specific end-user based on his or her user profile.,1
+The Disputes System shall prevent the creation of duplicate dispute requests 100% of the time.,1
+Application updates shall occur between 3AM and 6 AM CST on Wednesday morning during the middle of the NFL season.,0
+When given a takeoff command the InternalSimulator shall move the UAV to the takeoff altitude corresponding to its current longitude and latitude.,1
+r Susan Poslusny and Dr Julie Donalek are the only people who shall have access to students' personal information.,0
+The WASP platform should be able to determine whether a traffic jam lies on a suggested route.,1
+he system shall be easy to learn by callers and supervisors. Callers and supervisors shall learn how to use the system within 10 minutes.,0
+The response time shall be fast enough to maintain the flow of the game. The response time shall be no more than 2 seconds for 95% of responses and no more than 4% for the remaining responses.,0
+The system shall be built such that it is as secure as possible from malicious interference.,0
+The audit report shall be available to other adjusters at later points in time.,1
+"User shall be able to review requirements organized into a table containing at Requirement ID, Requirement Description, Discussion, Links and custom requirement attribute columns",1
+When a game is ended the product shall notify the players that the game is ended.,1
+The maintenance of the product will fall within the established corporate maintenance windows.,0
+When a shot is marked as a hit the product shall simulate the sound of a shot hitting its target.,1
+The system shall interface with the student master server.,0
+Program Administrators and Nursing Staff Members shall be able to add a student who has registered for a clinical class to a clinical lab section for that class.,1
+The RealTimeFlightUI shall display all currently active flight plans on the map.,1
+A clinical lab section shall include the clinical site name the class instructor day and time of the lab.,0
+The DronologyRuntimeMonitor shall be able to receive messages from any Dronology component,1
+If the shot was marked as a miss the product shall change the status of the defensive player to offensive,1
+he RFS system should be able to easily interface with the BDW environment in order to load the data. ¢ 7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process every year. The data will be as of October month-end. Test files (7) shall be loaded up to 5 times throughout the year from the BDW.,0
+The system shall be available for use between the hours of 8am and 6pm.,0
+"The system must manage granular access to data and its associated metadata, including data held securely in a dark archive.",0
+ystem shall let customers register on the website as a pay as you go user in under 5 minutes.,1
+Each change to any of requirement attributes shall be saved into History of Changes,1
+The interface shall be easy to use. 90% of users should be able to successfully use the system to generate a report on their first use. The interface should adhere to IBM usability standards.,0
+The user shall enter new ratings based on the audit report,1
+The UIMiddleware shall provide a list of all existing routes,1
+User shall be able to display and hide History panel containing all changes for a selected requirement in the Requirements Table,1
+Movies shall be encoded and streamed via Windows Media Player 9.0.,0
+User shall be able to show and hide Table of Contents (TOC) containing overall document structure visualized as a tree,1
+The WASP platform must have a (web-based) form to specify simple POI and service profiles.,1
+The user shall be able to get driving directions to a selected property,1
+The realtor shall be able to retrieve a map showing property locations for a specified area,1
+The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.,0
+The user interface shall have standard menus buttons for navigation,0
+Fit Criterion: Dr Susan Poslusny and Karen Sysol are the only people who shall have access to the final class section scheduling for the system that interfaces with CampusConnect.,0
+The system must allow creation of repository roles with different editing rights.,1
+The VehicleCore shall support virtual UAVs,1
+The product shall protect the identity of the players. The product shall provide players no access to information that might reveal the identity of another player.,0
+"Each comment shall display date, author and the comment description",1
+When the hit results in sinking a ship the product shall mark the ship as sunk on the defensive grid of the defensive player.,1
+he system shall use the organization's standard virus protection software to help monitor threats to itself.,0
+The leads washing functionality will use the parameters supplied by corporate and schools to score part of the lead.,1
+The product shall operate in offline mode whenever internet connection is unavailable.,0
+The system must offer customisable metadata schema.,0
+When given two coordinates the CoordinateSystem shall compute the distance between them.,1
+he Disputes System shall generate a User Report that details any new users that have been added and any changes to an existing user's access level. The report will be reviewed for auditing purposes.,1
+If a UAV has pending flight plans  then when it reaches the final waypoint of its current flight plan  the SingleUAVFlightPlanScheduler shall execute the next assigned flight plan.,1
+Program Administrators/Nursing Staff Members shall be able to cancel a clinical lab section only if there are no students registered for that clinical lab section.,1
+The leads washing functionality will verify the users authentication and rights to make parameter updates.,1
+The product shall continue to assign turns until the game is ended.,1
+The system shall display Events or Activities.,1
+All movies shall be streamed on demand at any time of the day.,1
+A customer can only stream a movie if they purchased it and are within the 2 day viewing period.,0
+The product shall display each type of ship in a grid using an image of the specific type of ship.,0
+"The WASP platform shall allow end-users to give and remove Create, Read, Update, Delete (CRUD) access rights on parts of the user profile to other users, specific WASP applications and the 3G Platform.",1
+The System shall meet all applicable accounting standards. The final version of the System must successfully pass independent audit performed by a certified auditor.,0
+The product shall send a meeting confirmation to the meeting organizer.,1
+The same hardware supporting the current website will be used to support the new system.,0
+The UIMiddleware shall accept and activate a mission plan upon request.,1
+The product shall have an intuitive user interface.,0
+he product's Look and Feel shall be able to incorporate aspects of the customer's organization such as logo branding and identity,0
+The system shall have a MDI form that allows for the viewing of the graph and the data table.,1
+The system will provide a 24 hour 800 toll free number for support to its customers.,0
+he system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members' planning purposes.,1
+The WASP platform must be able to combine knowledge about the end-user (in terms of profile and context) and a specific information request into a search query on the service registry.,1
+Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Nursing Student including student ID student name phone number e-mail status (full time or part time) and program of study.,1
+ystem shall let customers register on the website as a unlimited movie subscriber user in under 10 minutes.,1
+The product will notify employees of meeting invitations.,1
+When a flight plan is executed  the VehicleCore shall send the next waypoint to the UAV.,1
+The RealTimeFlightUI shall allow users to apply flight operations to one or more selected UAVs.,1
+All credit card information will be encrypted in the database.,0
+The product will be able to delete conference rooms.,1
+If the shot was marked as a miss the product shall change the status of the offensive player to defensive,1
+The website shall continue to operate if the payment gateway goes down.,0
+The print layout shall have the same layout as the displayed Requirements Table including displayed columns and filtered rows,0
+The product shall be supported using the corporate support center.,0
+The WASP platform must be able to show the location of various points of interests on a map.,1
+The product shall allow for customization of start page and views preferences.,0
+The system must support multiple files types including multimedia.,0
+The system should support different types of relationship within and between data sets e.g. IsVersionOf; Is Part Of; References etc. and support navigation between related datasets.,1
+The product shall interface with the Choice Parts System. This provides the feed of recycled parts data.,0
+User shall be able to import a table from MS Excel,1
+The product shall have a conservative and professional appearance.,0
+User shall be able to open a document file stored on a local user's drive,1
+The search for recycled parts shall take no longer than 15 seconds. The search results shall be returned in under 15 seconds.,0
+The product shall interface with the ChoiceParts system once per day at approximately 1:00 AM.,0
+The system shall be intuitive to the Program Administrators/Nursing Staff Members.,0
+Website must interface with the CyberSource API to process credit card transactions.,0
+All registered customer information shall be stored and maintained in the database even after the customer cancels their account.,1
+The ActivityLogger shall log all flight plan related events.,1
+The system shall display the local and exercise time in separate clocks,1
