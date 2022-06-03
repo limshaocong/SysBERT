@@ -34,8 +34,7 @@ source,reqs
 2019_jpss_l1rds_web,Operational outages of ESPC systems which support JPSS functionality shall be less than 5 hours over any 30-day period for the mission lifetime.
 2019_jpss_l1rds_web,"S-NPP and JPSS-n satellite operational outages, excluding on-orbit failures, shall be less than 2 hours over any 30-day period for the mission lifetime."
 2019_jpss_l1rds_web,"Each EDR shall satisfy the Threshold requirements described in its respective EDR attribute table, except as modified by Appendix D for the S-NPP mission."
-2019_jpss_l1rds_web,"Accuracy, Precision, and Uncertainty (APU), and Probability of Correct Typing (PCT) requirements shall apply only within the specified Measurement
-Range."
+2019_jpss_l1rds_web,"Accuracy, Precision, and Uncertainty (APU), and Probability of Correct Typing (PCT) requirements shall apply only within the specified Measurement Range."
 2019_jpss_l1rds_web,"JPSS shall measure and report retrieved values outside of the required Measurement Range to the extent necessary for validating retrievals at the ends of the range, but such retrieved values are not subject to APU and PCT requirements. In most cases the capability of the sensors and supporting algorithms must allow retrievals beyond the limits of the required Measurement Range in order to facilitate a sufficient distribution of samples for validating retrieved values at the ends of the range."
 2019_jpss_l1rds_web,Data Product APU and PCT performance shall be assessed and validated against their requirements using correlative data that are well-defined and generally accepted by the user community.
 2019_jpss_l1rds_web,"Retrieved values within an EDR, SDR, or TDR that are described by Degradation Conditions shall be produced and delivered."

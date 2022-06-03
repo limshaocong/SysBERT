@@ -9,8 +9,7 @@ source,reqs
 2013_echo_srd_WEB,More than 20 (TBC) of the planets observed in the Chemical Census tier should be observed in the Rosetta Stone tier.
 2013_echo_srd_WEB,The instantaneous wavelength coverage of EChO shall span 0.55 to 11 micron.
 2013_echo_srd_WEB,The instantaneous wavelength coverage of EChO should span 0.4 to 16 micron.
-2013_echo_srd_WEB,"For wavelengths greater than 3 micron, division of the EChO waveband shall be made such that no cut falls between the following wavelength intervals (inclusive): 
-3.00-3.60 micron, 4.10-5.00 micron, 5.70 -8.30 micron, 9.20-11.00 micron
+2013_echo_srd_WEB,"For wavelengths greater than 3 micron, division of the EChO waveband shall be made such that no cut falls between the following wavelength intervals (inclusive): 3.00-3.60 micron, 4.10-5.00 micron, 5.70 -8.30 micron, 9.20-11.00 micron
 "
 2013_echo_srd_WEB,Division of the EChO waveband should be made such that no cut falls in the wavelength interval 13.50 - 16.00 micron
 2013_echo_srd_WEB,The overlap between spectral channels shall be ? 5 resolution elements for ?<5 micron (assuming R?300) and ? 1 resolution element for ?>5 micron (assuming R?30) TBC.
@@ -24,13 +23,11 @@ source,reqs
 2013_echo_srd_WEB,Stellar variability (post-processing) shall make a negligible contribution to the noise budget (< 10% in RSS). Observation of stars with a higher residual variability is TBD.
 2013_echo_srd_WEB,"Only photometric variations within the frequency band of 2.8x10-­5 Hz to 3.7mHz shall be included in the overall noise budget, which is set by the MRS and SNR requirements defined in R-SCI- 060"
 2013_echo_srd_WEB,"Only photometric variations within the frequency band of 3.8x10-6 Hz to 16mHz should be included in the overall noise budget, which is set by the MRS and SNR requirements defined in R-SCI- 060"
-2013_echo_srd_WEB,"40% of the sky shall be accessible at any one time. The same 40% shall be accessible over a period of
-~10 hrs. The complete sky shall be accessible within a year (TBC). A source at the ecliptic shall be observable for 40% of the mission lifetime."
+2013_echo_srd_WEB,40% of the sky shall be accessible at any one time. The same 40% shall be accessible over a period of ~10 hrs. The complete sky shall be accessible within a year (TBC). A source at the ecliptic shall be observable for 40% of the mission lifetime.
 2013_echo_srd_WEB,The interval between consecutive measurements of the host star/exoplanet system taken during a single transit/occultation shall be ?90 seconds
 2013_echo_srd_WEB,The interval between consecutive measurements of the host star/exoplanet system taken during a single transit/occultation should be ?30 seconds.
 2013_echo_srd_WEB,The faintest target shortward of 3 micron that the spacecraft will be designed to observe shall be a M5V star with Ks-band magnitude of 8.8 (equivalent to GJ 1214).
-2013_echo_srd_WEB,"The faintest target shortward of 3 micron that the
-spacecraft will be designed to observe should be an M5V star with Ks-band magnitude of 9.8."
+2013_echo_srd_WEB,The faintest target shortward of 3 micron that the spacecraft will be designed to observe should be an M5V star with Ks-band magnitude of 9.8.
 2013_echo_srd_WEB,The faintest target between 3 and 8 micron that the spacecraft will be designed to observe shall be a G0V star with Ks-band magnitude of 9.0 (no known equivalent yet).
 2013_echo_srd_WEB,The faintest target between 3 and 8 micron that the spacecraft will be designed to observe should be a G0V star with Ks-band magnitude of 10.0.
 2013_echo_srd_WEB,The faintest target longward of 8 micron that the spacecraft will be designed to observe shall be a G0V star with Ks-band magnitude of 8.0 (no known equivalent yet).

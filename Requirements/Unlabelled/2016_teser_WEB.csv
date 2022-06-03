@@ -21,7 +21,7 @@ source,reqs
 2016_teser_web,The TTC subsystem shall be able to establish a link to Earth independent of the host S/C attitude
 2016_teser_web,The TTC subsystem shall be compatible to [TBD Protocols] Ground Stations.
 2016_teser_web,TTC system shall be able to receive data at a data rate of 1 kbps (TBC).
-2016_teser_web,The TTC system shall be able to transmit data at a data rate1 kbps (TBC).
+2016_teser_web,The TTC system shall be able to transmit data at a data rate 1 kbps (TBC).
 2016_teser_web,The TTC subsystem shall be scalable to accommodate different RS.
 2016_teser_web,The TTC subsystem shall be scalable to account for removing different S/C.
 2016_teser_web,The TTC subsystem shall not interfere with host S/C communications
@@ -45,8 +45,7 @@ source,reqs
 2016_teser_web,The TCS subsystem shall be scalable to account for removing different S/C.
 2016_teser_web,The TCS subsystem shall have a thermal connection to the RS via IF-RS as defined in [AD2]
 2016_teser_web,The ADCS Sensor subsystem shall sense attitude and rotation rates with an accuracy as described in [AD2]
-2016_teser_web,The ADCS Sensor subsystem shall generate attitude control commands with
-2016_teser_web,an accuracy as defined in [AD2]
+2016_teser_web,The ADCS Sensor subsystem shall generate attitude control commands with an accuracy as defined in [AD2]
 2016_teser_web,The ADCS Sensor subsystem shall send attitude and rotation rate data to the C&DH subsystem.
 2016_teser_web,The ADCS Sensor subsystem shall send attitude control commands to the ADCS Actuator subsystem.
 2016_teser_web,The ADCS Sensor subsystem shall be scalable to account for removing different SC.

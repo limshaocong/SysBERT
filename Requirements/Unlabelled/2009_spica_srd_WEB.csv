@@ -9,7 +9,7 @@ source,reqs
 2009_spica_srd_WEB,The SPICA telescope shall have diffraction-limited imaging capability at 5µm over a field of view of 5 arcmin radius (goal G7: 6 arcmin)
 2009_spica_srd_WEB,The SPICA telescope shall keep diffraction-limited performances at 30µm over a field of view of 10 arcmin radius (goal G8: 12 arcmin)
 2009_spica_srd_WEB,The mapped telescope field of view shall be unvignetted over a radius of 12 arcmin (goal G9: 15 arcmin).
-2009_spica_srd_WEB,"The overall maximum SPICA telescope wavefront error, over a field o view of 5 arcmin radius (goal G10: 6 arcmin), shall be 350nm rms in order to be compatible with nominal diffraction-limited performances at ?o."
+2009_spica_srd_WEB,"The overall maximum SPICA telescope wavefront error, over a field of view of 5 arcmin radius (goal G10: 6 arcmin), shall be 350nm rms in order to be compatible with nominal diffraction-limited performances at ?o."
 2009_spica_srd_WEB,"The maximum telescope wavefront peak-to-valley (PTV) error, within the spatial frequency range from 0 to 50cycles/D and over the entire unobscured part of the telescope pupil shall be no higher than 2µm."
 2009_spica_srd_WEB,"The operating temperature of the SPICA telescope shall be below 6K (goal G12: <5K), in order to limit in-field self-emission in the FIR. This specific temperature of operation means that all other telescope requirements apply under this condition (and the general space flight environment at the baseline mission orbit)."
 2009_spica_srd_WEB,"For every degree K above the maximum baseline telescope temperature of 6K (as per R12), the relative surface area (i.e., compared to the total telescope aperture) of this associated “higher” temperature zone shall be further reduced by at least a factor 5."

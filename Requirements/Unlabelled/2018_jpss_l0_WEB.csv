@@ -254,7 +254,6 @@ source,reqs
 2018_jpss_l0_web,"The algorithm shall produce a cloud optical depth product that has a measurement accuracy of ice phase: 20% (Day), 30% (Night)."
 2018_jpss_l0_web,The algorithm shall produce a cloud particle size distribution product that has a horizontal cell size of 0.8 km.
 2018_jpss_l0_web,The algorithm shall produce a cloud particle size distribution product that has a mapping uncertainty (3 sigma) of 4 km.
-2018_jpss_l0_web,The algorithm shall produce a cloud particle size distribution product that has a measurement range of
 2018_jpss_l0_web,"The algorithm shall produce a cloud particle size distribution product that has a measurement range of 2 to 50 µm (day),"
 2018_jpss_l0_web,"The algorithm shall produce a cloud particle size distribution product that has a measurement range of 2 to 32 µm for water (night), and"
 2018_jpss_l0_web,The algorithm shall produce a cloud particle size distribution product that has a measurement range of 2 to 50 µm for ice (night).

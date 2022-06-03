@@ -49,7 +49,6 @@ source,reqs
 2007_trs_mrd_web,"The mission profile shall ensure that the spacecraft are deployed in the operational orbit and in the correct position of the constellation. If applicable, any spacecraft separation mechanisms shall be included"
 2007_trs_mrd_web,"The propulsion modules (on all spacecraft, only mother spacecraft or on dedicated transfer modules) shall be able to transfer all spacecraft into their operational orbits"
 2007_trs_mrd_web,"When required for compliance with R-2.1.5-1, the propulsion modules on all spacecraft shall, in addition, be able to de-orbit or transfer all spacecraft into a parking orbit at the end of the spacecraft operational lifetime"
-2007_trs_mrd_web,All spacecraft shall be able to perform orbit and attitude control manoeuvres during the specified nominal and extended lifetime necessary for
 2007_trs_mrd_web,All spacecraft shall be able to perform orbit and attitude control manoeuvres during the specified nominal and extended lifetime necessary for Navigation
 2007_trs_mrd_web,All spacecraft shall be able to perform orbit and attitude control manoeuvres during the specified nominal and extended lifetime necessary for Orbit and constellation configuration maintenance
 2007_trs_mrd_web,All spacecraft shall be able to perform orbit and attitude control manoeuvres during the specified nominal and extended lifetime necessary for Science operations
@@ -123,7 +122,6 @@ source,reqs
 2007_trs_mrd_web,The onboard data storage system shall allow simultaneous recording and replay of data
 2007_trs_mrd_web,The onboard data storage system shall have sufficient reliability to allow compliance with R-2.7.2-1
 2007_trs_mrd_web,The onboard data storage system shall have sufficient reliability to allow compliance with G-2.7.2-2
-2007_trs_mrd_web,The on-board date storage system (memory and controller) should be designed to be robust against
 2007_trs_mrd_web,"The on-board date storage system (memory and controller) should be designed to be robust against Single Event Effects (e.g. on-board error detection correction S/W, highly reliable memory controller)"
 2007_trs_mrd_web,The on-board date storage system (memory and controller) should be designed to be robust against S/C safe mode (no loss of previously recorded data)
 2007_trs_mrd_web,The on-board date storage system (memory and controller) should be designed to be robust against S/C reboot (no loss of previously recorded data) (TBC)

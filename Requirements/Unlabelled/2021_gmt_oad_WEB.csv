@@ -195,12 +195,12 @@ source,reqs
 2021_gmt_oad_web,The ASM shall provide control of segment shape with a precision of ? 5 nm RMS surface.
 2021_gmt_oad_web,The ASMS shall provide actuation of segment shape in all controlled modes with a transfer function response to commands outside the keep-out regions specified in Figure 3-40.
 2021_gmt_oad_web,The AGWS shall meet its NGAO measurement accuracy requirements with a sky coverage of no less than 90% in the FP optical configuration.
-2021_gmt_oad_web,The AGWS SPS sensor shall have a capture range no less than ± 30 ?m.
+2021_gmt_oad_web,The AGWS SPS sensor shall have a capture range no less than ± 30 m.
 2021_gmt_oad_web,"The NGWS shall be replicated for each instrument operating in the NGAO wavefront control mode, and fed by reflection off the instrument cryostat window."
 2021_gmt_oad_web,The NGWS shall meet its performance requirements using only 450-920 nm wavelength light.
 2021_gmt_oad_web,The NGWS shall meet its performance requirements using guide stars up to 60 arcsec off-axis.
 2021_gmt_oad_web,The NGWS shall be sensitive to both continuous wavefront errors and phase differences across the GMT segment gaps.
-2021_gmt_oad_web,The NGWS shall measure the wavefront error of an R = 10 guide star with a measurement error of ? 60 nm RMS wavefront at ?1000 Hz.
+2021_gmt_oad_web,The NGWS shall measure the wavefront error of an R = 10 guide star with a measurement error of < 60 nm RMS wavefront at ?1000 Hz.
 2021_gmt_oad_web,The NGAO wavefront control mode rejection transfer function for all controlled modes shall not exceed that in Figure 3-41.
 2021_gmt_oad_web,"The On-Axis Tomography control loop shall tomographically reconstruct the on-axis wavefront error from wavefront measurements made by the LTWS, and apply corrections for this error to the ASMS face sheets."
 2021_gmt_oad_web,"The Off-Axis Tomography control loop shall tomographically reconstruct the off-axis wavefront error from wavefront measurements made by the LTWS, and apply corrections for this error to the OIWFS deformable mirror."
@@ -215,26 +215,26 @@ source,reqs
 2021_gmt_oad_web,"The M2 Segment Piston feed-forward loop shall receive the M2 differential piston error measured by the ASMS M2 Edge Sensors, and apply corrections for this error to the ASMS face sheets."
 2021_gmt_oad_web,"The Active Optics and Phasing control loop in the LTAO control mode shall reconstruct field-dependent segment aberrations and both on-axis and field-dependent segment phase piston from measurements made by the AGWS, and apply corrections for these errors to the Mount, M1S segment positions and shapes, and TMS M1 Edge Sensor setpoints."
 2021_gmt_oad_web,The NGWS shall actuate the LGS Dichroic in tip and tilt.
-2021_gmt_oad_web,"The NGWS LGS Dichroic tip-tilt actuation shall have an absolute accuracy of ? 1.0 mrad RMS with respect to the Instrument-NGWS mechanical interface, anywhere within its range of motion after calibration."
-2021_gmt_oad_web,The NGWS LGS Dichroic tip-tilt actuation shall have a repeatability of ? 10 ?rad RMS for small offsets.
+2021_gmt_oad_web,"The NGWS LGS Dichroic tip-tilt actuation shall have an absolute accuracy of < 1.0 mrad RMS with respect to the Instrument-NGWS mechanical interface, anywhere within its range of motion after calibration."
+2021_gmt_oad_web,The NGWS LGS Dichroic tip-tilt actuation shall have a repeatability of < 10 ?rad RMS for small offsets.
 2021_gmt_oad_web,The NGWS LGS Dichroic tip-tilt actuation shall have a range of at least ± 6.0 mrad (TBC).
 2021_gmt_oad_web,The LGSS shall generate sodium laser guide stars at 589 nm wavelength.
 2021_gmt_oad_web,"The LGSS shall project a 6 laser guide stars in a circular asterism centered on the telescope optical axis, with a radius adjustable between 25.0 and 35.0 arcsec."
 2021_gmt_oad_web,The LGSS shall generate laser guide stars with an annual-median return flux at the GMT primary mirror of no less than 400 ph/cm2/s (TBC).
 2021_gmt_oad_web,"The LGSS shall generate LGS with a FWHM no greater than 1.0 arcsec along the axis perpendicular to spot elongation, when imaged through a 42x42 cm square aperture."
 2021_gmt_oad_web,The LGSS shall point the laser guide stars over an angular range of no less than ± 2.6 arcmin with respect to the normal to the Mount-LGSS mechanical interface.
-2021_gmt_oad_web,The GMT shall point the laser guide stars with a blind pointing accuracy of ? 4.6 arcsec peak error.
+2021_gmt_oad_web,The GMT shall point the laser guide stars with a blind pointing accuracy of < 4.6 arcsec peak error.
 2021_gmt_oad_web,The LGSS Laser Acquisition System shall measure the position of the LGS with respect to the telescope optical axis.
-2021_gmt_oad_web,The LGSS Laser Acquisition System shall measure the position of the LGS with respect to the telescope optical axis with an accuracy of ? 0.5 arcsec RMS.
+2021_gmt_oad_web,The LGSS Laser Acquisition System shall measure the position of the LGS with respect to the telescope optical axis with an accuracy of < 0.5 arcsec RMS.
 2021_gmt_oad_web,The LGSS Laser Acquisition System shall have a capture range ? 6.0 arcmin diameter centered on the telescope optical axis.
 2021_gmt_oad_web,The Laser Tomography Wavefront Sensor Subsystem (LTWS) measures the high-order components of the atmospheric and telescope phase error.
 2021_gmt_oad_web,"The LTWS shall be replicated for each instrument operating in the LTAO wavefront control mode, and fed by reflection off the instrument cryostat window and the NGWS LTAO Dichroic."
 2021_gmt_oad_web,The LTWS shall operate using the 589 nm wavelength light of the sodium laser guide stars.
 2021_gmt_oad_web,"The LTWS shall have 6 wavefront sensors equally spaced on a circle centered on the telescope optical axis, configurable to radii of 25 to 35 arcsec."
 2021_gmt_oad_web,The LTWS wavefront sensors shall be of a Shack-Hartmann type with a pupil sampling of at least 60x60 subapertures.
-2021_gmt_oad_web,The LTWS shall have a pixel sampling of ? 0.8 arcsec/pixel.
-2021_gmt_oad_web,The LTWS shall have a field of view of ? 9.2 arcsec.
-2021_gmt_oad_web,The LTWS wavefront sensors shall have a relative pupil registration error of ? 4.2 cm (TBC) in the entrance pupil.
+2021_gmt_oad_web,The LTWS shall have a pixel sampling of < 0.8 arcsec/pixel.
+2021_gmt_oad_web,The LTWS shall have a field of view of < 9.2 arcsec.
+2021_gmt_oad_web,The LTWS wavefront sensors shall have a relative pupil registration error of < 4.2 cm (TBC) in the entrance pupil.
 2021_gmt_oad_web,The LTWS shall have a maximum frame rate no less than 500 Hz.
 2021_gmt_oad_web,The LTWS shall track the rotating LTAO asterism.
 2021_gmt_oad_web,The LTWS shall refocus to track the LGS range from 83.5 km to 190 km.
@@ -294,8 +294,8 @@ source,reqs
 2021_gmt_oad_web,The AGWS shall track guide stars at up to 6 arcsec/min relative to the sidereal rate with no more than 20 mas RMS of additional guiding error.
 2021_gmt_oad_web,The AGWS shall track guide stars at up to 1 arcsec/s relative to the sidereal rate with no more than 200 mas RMS of additional guiding error.
 2021_gmt_oad_web,"The AGWS shall meet all of its performance requirements with the GIR fixed, over an apparent sky rotation angle of up to 60 degrees."
-2021_gmt_oad_web,"After calibration, the GMT shall provide guided pointing with an accuracy ? 0.2 arcseconds RMS at Direct Gregorian ports."
-2021_gmt_oad_web,"After calibration, the GMT shall provide guided pointing with an accuracy ? 1 arcsecond RMS at the Folded Port."
+2021_gmt_oad_web,"After calibration, the GMT shall provide guided pointing with an accuracy < 0.2 arcseconds RMS at Direct Gregorian ports."
+2021_gmt_oad_web,"After calibration, the GMT shall provide guided pointing with an accuracy < 1 arcsecond RMS at the Folded Port."
 2021_gmt_oad_web,The GMT shall offset between two or more positions on the sky separated by up to 60 arcseconds with a pointing accuracy at each position of no greater than 0.1*PSF FWHM arcseconds RMS.
 2021_gmt_oad_web,"The GMT observatory shall be able to perform observations with the minimum average throughput in each 50 nm window for clean, freshly-polished mirrors as outlined in the table in Appendix B."
 2021_gmt_oad_web,"The GMT observatory shall, at minimum, clean the optics with CO2 once every two weeks, and the primary mirrors will be wet-washed every other year between re-coatings."
@@ -317,7 +317,7 @@ source,reqs
 2021_gmt_oad_web,The GMT contribution to on-axis emissivity shall not exceed the specifications below in Table 4-25 for DGNF (no C-ADC) and FP.
 2021_gmt_oad_web,The GMT Observatory shall be able to acquire images with a maximum change in the uncertainty in the flux in a 5 (TBC) x FWHM diameter aperture (excluding throughput variations) over a two-hour period as described in Table 4-27.
 2021_gmt_oad_web,The GMT observatory shall be able to maintain field distortion stability to the levels outlined in Table 428 over a 10-hour period.
-2021_gmt_oad_web,GMT shall enable spectral stability with a wavelength accuracy of ? 10% of the spectral resolution when the signal-to-noise ratio is ? 10.
+2021_gmt_oad_web,GMT shall enable spectral stability with a wavelength accuracy of < 10% of the spectral resolution when the signal-to-noise ratio is < 10.
 2021_gmt_oad_web,The GMT shall provide a deployable Instrument Calibration System (ICS).
 2021_gmt_oad_web,The ICS Deployment Mechanism shall operate at any elevation angle within the observing range of the telescope (including zenith).
 2021_gmt_oad_web,The Mount shall retract the ICS to a position that is out of the optical beam of the telescope.
@@ -580,50 +580,49 @@ source,reqs
 2021_gmt_oad_web,The GMT shall comply with the GMT Electronics Standards (GMT-SE-REF-00191).
 2021_gmt_oad_web,The Observatory subsystems shall comply with industry power quality standards as defined in TBD.
 2021_gmt_oad_web,The Observatory subsystems shall comply with industry EMI standards for emissions and immunity as defined in TBD.
-2021_gmt_oad_web,The FSMS and ASMS in the Natural Seeing wavefront control mode shall provide actuation of the Tx degree of freedom to with repeatability of ? 1.0 ?m (1? precision).
-2021_gmt_oad_web,The FSMS and ASMS in the Natural Seeing wavefront control mode shall provide actuation of the Ty degree of freedom to with repeatability of ? 1.0 ?m (1? precision).
-2021_gmt_oad_web,The FSMS and ASMS in the Natural Seeing wavefront control mode shall provide actuation of the Tz degree of freedom to with repeatability of ? 1.0 ?m (1? precision).
-2021_gmt_oad_web,The FSMS and ASMS in the Natural Seeing wavefront control mode shall provide actuation of the Rx degree of freedom to with repeatability of ? 0.1 ?rad (1? precision).
-2021_gmt_oad_web,The FSMS and ASMS in the Natural Seeing wavefront control mode shall provide actuation of the Ry degree of freedom to with repeatability of ? 0.1 ?rad (1? precision).
-2021_gmt_oad_web,The FSMS and ASMS in the Natural Seeing wavefront control mode shall provide actuation of the Rz degree of freedom to with repeatability of ? 0.5 ?rad (1? precision).
-2021_gmt_oad_web,The FSMS and ASMS shall provide actuation of segment position in the Ty degree of freedom to an accuracy of ? 75 ?m.
-2021_gmt_oad_web,The FSMS and ASMS shall provide actuation of segment position in the Tz degree of freedom to an accuracy of ? 75 ?m.
-2021_gmt_oad_web,The FSMS and ASMS shall provide actuation of segment position in the Rx degree of freedom to an accuracy of ? 15 ?rad.
-2021_gmt_oad_web,The FSMS and ASMS shall provide actuation of segment position in the Ry degree of freedom to an accuracy of ? 15 ?rad.
-2021_gmt_oad_web,The FSMS and ASMS shall provide actuation of segment position in the Rz degree of freedom to an accuracy of ? 1600 ?rad.
-2021_gmt_oad_web,The M1 System shall provide actuation of segment position in the Tx degree of freedom to an accuracy of ? 75 ?m.
-2021_gmt_oad_web,The M1 System shall provide actuation of segment position in the Ty degree of freedom to an accuracy of ? 75 ?m.
-2021_gmt_oad_web,The M1 System shall provide actuation of segment position in the Tz degree of freedom to an accuracy of ? 4.3 ?m.
-2021_gmt_oad_web,The M1 System shall provide actuation of segment position in the Rx degree of freedom to an accuracy of ? 1.8 ?rad.
-2021_gmt_oad_web,The M1 System shall provide actuation of segment position in the Ry degree of freedom to an accuracy of ? 1.8 ?rad.
-2021_gmt_oad_web,The M1 System shall provide actuation of segment position in the Rz degree of freedom to an accuracy of ? 190 ?rad.
-2021_gmt_oad_web,The M2 System shall provide actuation of segment position in the Ty degree of freedom to an accuracy of ? 75 ?m.
-2021_gmt_oad_web,The M2 System shall provide actuation of segment position in the Tz degree of freedom to an accuracy of ? 75 ?m.
-2021_gmt_oad_web,The M2 System shall provide actuation of segment position in the Rx degree of freedom to an accuracy of ? 15 ?rad.
-2021_gmt_oad_web,The M2 System shall provide actuation of segment position in the Ry degree of freedom to an accuracy of ? 15 ?rad.
-2021_gmt_oad_web,The M2 System shall provide actuation of segment position in the Rz degree of freedom to an accuracy of ? 1600 ?rad.
-2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M1 Tz degree of freedom to an accuracy of ? 4.3 ?m.
-2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M1 Rx degree of freedom to an accuracy of ? 190 ?rad.
-2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M1 Ry degree of freedom to an accuracy of ? 190 ?rad.
-2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M1 Rz degree of freedom to an accuracy of ? 190 ?rad.
-2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M2 Tz degree of freedom to an accuracy of ? 4.3 ?m.
-2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M2 Rx degree of freedom to an accuracy of ? 1600 ?rad.
-2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M2 Ry degree of freedom to an accuracy of ? 1600 ?rad.
-2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M2 Rz degree of freedom to an accuracy of ? 1600 ?rad.
-2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M3 Tx degree of freedom to an accuracy of ? 25 ?m.
-2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M3 Ty degree of freedom to an accuracy of ? 25 ?m.
-2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M3 Tz degree of freedom to an accuracy of ? 25 ?m.
-2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M3 Rx degree of freedom to an accuracy of ? 2000 ?rad.
-2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M3 Ry degree of freedom to an accuracy of ? 2000 ?rad.
-2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M3 Rz degree of freedom to an accuracy of ? 2000 ?rad.
-2021_gmt_oad_web,The M1 System shall provide actuation of the segment position in the Rx degree of freedom to with repeatability of ? 0.5 ?rad (1? precision).
-2021_gmt_oad_web,The M1 System shall provide actuation of the segment position in the Ry degree of freedom to with repeatability of ? 0.5 ?rad (1? precision).
-2021_gmt_oad_web,"The M3 System shall provide actuation of the M3 tip, tilt, and piston in the Tz degree of freedom to an accuracy of ? 25 ?m."
-2021_gmt_oad_web,"The M3 System shall provide actuation of the M3 tip, tilt, and piston in the Rz degree of freedom to an accuracy of ? 500 ?rad."
-2021_gmt_oad_web,"The M3 System shall provide actuation of the M3 tip, tilt, and piston in the Rz degree of freedom to with repeatability of ? 12 ?rad (1? precision)."
-2021_gmt_oad_web,"The M3 System shall provide actuation of the M3 tip, tilt, and piston in the Tz degree of freedom to with repeatability of ? 2 ?m (1? precision)."
-2021_gmt_oad_web,The AGWS in the NGAO wavefront control mode shall measure the On-axis segment phase piston to an accuracy of ? 50 nm.
-2021_gmt_oad_web,The AGWS in the NGAO wavefront control mode shall measure the Field-dependent segment phase piston to an accuracy of ? 10 nm/arcmin.
+2021_gmt_oad_web,The FSMS and ASMS in the Natural Seeing wavefront control mode shall provide actuation of the Tx degree of freedom to with repeatability of < 1.0 ?m (1-sigma precision).
+2021_gmt_oad_web,The FSMS and ASMS in the Natural Seeing wavefront control mode shall provide actuation of the Ty degree of freedom to with repeatability of < 1.0 ?m (1-sigma precision).
+2021_gmt_oad_web,The FSMS and ASMS in the Natural Seeing wavefront control mode shall provide actuation of the Tz degree of freedom to with repeatability of < 1.0 ?m (1-sigma precision).
+2021_gmt_oad_web,The FSMS and ASMS in the Natural Seeing wavefront control mode shall provide actuation of the Rx degree of freedom to with repeatability of < 0.1 ?rad (1-sigma precision).
+2021_gmt_oad_web,The FSMS and ASMS in the Natural Seeing wavefront control mode shall provide actuation of the Ry degree of freedom to with repeatability of < 0.1 ?rad (1-sigma precision).
+2021_gmt_oad_web,The FSMS and ASMS in the Natural Seeing wavefront control mode shall provide actuation of the Rz degree of freedom to with repeatability of < 0.5 ?rad (1-sigma precision).
+2021_gmt_oad_web,The FSMS and ASMS shall provide actuation of segment position in the Ty degree of freedom to an accuracy of < 75 ?m.
+2021_gmt_oad_web,The FSMS and ASMS shall provide actuation of segment position in the Tz degree of freedom to an accuracy of < 75 ?m.
+2021_gmt_oad_web,The FSMS and ASMS shall provide actuation of segment position in the Rx degree of freedom to an accuracy of < 15 ?rad.
+2021_gmt_oad_web,The FSMS and ASMS shall provide actuation of segment position in the Ry degree of freedom to an accuracy of < 15 ?rad.
+2021_gmt_oad_web,The FSMS and ASMS shall provide actuation of segment position in the Rz degree of freedom to an accuracy of < 1600 ?rad.
+2021_gmt_oad_web,The M1 System shall provide actuation of segment position in the Tx degree of freedom to an accuracy of < 75 ?m.
+2021_gmt_oad_web,The M1 System shall provide actuation of segment position in the Ty degree of freedom to an accuracy of < 75 ?m.
+2021_gmt_oad_web,The M1 System shall provide actuation of segment position in the Tz degree of freedom to an accuracy of < 4.3 ?m.
+2021_gmt_oad_web,The M1 System shall provide actuation of segment position in the Rx degree of freedom to an accuracy of < 1.8 ?rad.
+2021_gmt_oad_web,The M1 System shall provide actuation of segment position in the Ry degree of freedom to an accuracy of < 1.8 ?rad.
+2021_gmt_oad_web,The M1 System shall provide actuation of segment position in the Rz degree of freedom to an accuracy of < 190 ?rad.
+2021_gmt_oad_web,The M2 System shall provide actuation of segment position in the Ty degree of freedom to an accuracy of < 75 ?m.
+2021_gmt_oad_web,The M2 System shall provide actuation of segment position in the Tz degree of freedom to an accuracy of  75 ?m.
+2021_gmt_oad_web,The M2 System shall provide actuation of segment position in the Rx degree of freedom to an accuracy of < 15 ?rad.
+2021_gmt_oad_web,The M2 System shall provide actuation of segment position in the Ry degree of freedom to an accuracy of < 15 ?rad.
+2021_gmt_oad_web,The M2 System shall provide actuation of segment position in the Rz degree of freedom to an accuracy of < 1600 ?rad.
+2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M1 Tz degree of freedom to an accuracy of < 4.3 ?m.
+2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M1 Rx degree of freedom to an accuracy of < 190 ?rad.
+2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M1 Ry degree of freedom to an accuracy of < 190 ?rad.
+2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M1 Rz degree of freedom to an accuracy of < 190 ?rad.
+2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M2 Tz degree of freedom to an accuracy of < 4.3 ?m.
+2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M2 Rx degree of freedom to an accuracy of < 1600 ?rad.
+2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M2 Ry degree of freedom to an accuracy of < 1600 ?rad.
+2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M2 Rz degree of freedom to an accuracy of < 1600 ?rad.
+2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M3 Tx degree of freedom to an accuracy of < 25 ?m.
+2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M3 Ty degree of freedom to an accuracy of < 25 ?m.
+2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M3 Tz degree of freedom to an accuracy of < 25 ?m.
+2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M3 Rx degree of freedom to an accuracy of < 2000 ?rad.
+2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M3 Ry degree of freedom to an accuracy of < 2000 ?rad.
+2021_gmt_oad_web,The TMS shall measure the location of the main optics in the M3 Rz degree of freedom to an accuracy of < 2000 ?rad.
+2021_gmt_oad_web,The M1 System shall provide actuation of the segment position in the Rx degree of freedom to with repeatability of < 0.5 ?rad (1-sigma precision).
+2021_gmt_oad_web,The M1 System shall provide actuation of the segment position in the Ry degree of freedom to with repeatability of < 0.5 ?rad (1-sigma precision).
+2021_gmt_oad_web,"The M3 System shall provide actuation of the M3 tip, tilt, and piston in the Tz degree of freedom to an accuracy of < 25 ?m."
+2021_gmt_oad_web,"The M3 System shall provide actuation of the M3 tip, tilt, and piston in the Rz degree of freedom to an accuracy of < 500 ?rad."
+2021_gmt_oad_web,"The M3 System shall provide actuation of the M3 tip, tilt, and piston in the Rz degree of freedom to with repeatability of < 12 ?rad (1-sigma precision)."
+2021_gmt_oad_web,The AGWS in the NGAO wavefront control mode shall measure the On-axis segment phase piston to an accuracy of < 50 nm.
+2021_gmt_oad_web,The AGWS in the NGAO wavefront control mode shall measure the Field-dependent segment phase piston to an accuracy of < 10 nm/arcmin.
 2021_gmt_oad_web,The OIWFS shall include a Image Motion capture range of ± 1.0 arcsec.
 2021_gmt_oad_web,The OIWFS shall include a Focus capture range of ± 200nm.
 2021_gmt_oad_web,The OIWFS shall include a Low-order wavefront sensing capture range of ± 1.0 arcsec wavefront slope.
@@ -637,17 +636,17 @@ source,reqs
 2021_gmt_oad_web,The GMT FSMS/ASMS in the LTAO wavefront control mode shall control the M2 segment rigid body position.
 2021_gmt_oad_web,The GMT ASMS in the LTAO wavefront control mode shall control the M2 segment shape.
 2021_gmt_oad_web,"The GMT M3 in the LTAO wavefront control mode shall control the M3 piston, tip, and tilt."
-2021_gmt_oad_web,The OIWFS operating in LTAO mode using off-axis NGS shall have a Image Motion measurement accuracy of ? 2.1 mas at 500 Hz (1? accuracy) when using a K=17.0 guide star at 45 arcsec off-axis.
-2021_gmt_oad_web,The OIWFS operating in LTAO mode using off-axis NGS shall have a Focus measurement accuracy of ? 35 nm at 10 Hz (1? accuracy) when using a K=17.0 guide star at 45 arcsec off-axis.
-2021_gmt_oad_web,The OIWFS operating in LTAO mode using off-axis NGS shall have a Low-order wavefront sensing measurement accuracy of ? 45 nm at 0.1 Hz (1? accuracy) when using a K=17.0 guide star at 45 arcsec off-axis.
-2021_gmt_oad_web,The OIWFS operating in LTAO mode using off-axis NGS shall have a Chief ray angle measurement accuracy of ? 120 ?rad at 0.1 Hz (1? accuracy) when using a K=17.0 guide star at 45 arcsec off-axis.
-2021_gmt_oad_web,The OIWFS operating in LTAO mode using off-axis NGS shall have a Image Motion measurement accuracy of ? 5.0 mas at 500 Hz (1? accuracy) when using a K=18.0 guide star at 60 arcsec off-axis.
-2021_gmt_oad_web,The OIWFS operating in LTAO mode using off-axis NGS shall have a Focus measurement accuracy of ? 50 nm at 10 Hz (1? accuracy) when using a K=18.0 guide star at 60 arcsec off-axis.
-2021_gmt_oad_web,The OIWFS operating in LTAO mode using off-axis NGS shall have a Chief ray angle measurement accuracy of ? 120 ?rad at 0.1 Hz (1? accuracy) when using a K=18.0 guide star at 60 arcsec off-axis.
-2021_gmt_oad_web,"The OIWFS operating in LTAO mode using off-axis NGS shall have a Image Motion measurement accuracy of ? 2.1 mas at 500 Hz (1? accuracy) when using a J=15.4, H=14.5, and K=13.8 on-axis guide star."
-2021_gmt_oad_web,"The OIWFS operating in LTAO mode using off-axis NGS shall have a Focus measurement accuracy of ? 35 nm at 10 Hz (1? accuracy) when using a J=15.4, H=14.5, and K=13.8 on-axis guide star."
-2021_gmt_oad_web,"The OIWFS operating in LTAO mode using off-axis NGS shall have a Low-order wavefront sensing measurement accuracy of ? 45 nm at 0.1 Hz (1? accuracy) when using a J=15.4, H=14.5, and K=13.8 on-axis guide star."
-2021_gmt_oad_web,"The OIWFS operating in LTAO mode using off-axis NGS shall have a Chief ray angle measurement accuracy of ? 120 ?rad at 0.1 Hz (1? accuracy) when using a J=15.4, H=14.5, and K=13.8 on-axis guide star."
+2021_gmt_oad_web,The OIWFS operating in LTAO mode using off-axis NGS shall have a Image Motion measurement accuracy of < 2.1 mas at 500 Hz (1-sigma accuracy) when using a K=17.0 guide star at 45 arcsec off-axis.
+2021_gmt_oad_web,The OIWFS operating in LTAO mode using off-axis NGS shall have a Focus measurement accuracy of < 35 nm at 10 Hz (1-sigma accuracy) when using a K=17.0 guide star at 45 arcsec off-axis.
+2021_gmt_oad_web,The OIWFS operating in LTAO mode using off-axis NGS shall have a Low-order wavefront sensing measurement accuracy of < 45 nm at 0.1 Hz (1-sigma accuracy) when using a K=17.0 guide star at 45 arcsec off-axis.
+2021_gmt_oad_web,The OIWFS operating in LTAO mode using off-axis NGS shall have a Chief ray angle measurement accuracy of < 120 ?rad at 0.1 Hz (1-sigma accuracy) when using a K=17.0 guide star at 45 arcsec off-axis.
+2021_gmt_oad_web,The OIWFS operating in LTAO mode using off-axis NGS shall have a Image Motion measurement accuracy of < 5.0 mas at 500 Hz (1-sigma accuracy) when using a K=18.0 guide star at 60 arcsec off-axis.
+2021_gmt_oad_web,The OIWFS operating in LTAO mode using off-axis NGS shall have a Focus measurement accuracy of < 50 nm at 10 Hz (1-sigma accuracy) when using a K=18.0 guide star at 60 arcsec off-axis.
+2021_gmt_oad_web,The OIWFS operating in LTAO mode using off-axis NGS shall have a Chief ray angle measurement accuracy of < 120 ?rad at 0.1 Hz (1-sigma accuracy) when using a K=18.0 guide star at 60 arcsec off-axis.
+2021_gmt_oad_web,"The OIWFS operating in LTAO mode using off-axis NGS shall have a Image Motion measurement accuracy of < 2.1 mas at 500 Hz (1-sigma accuracy) when using a J=15.4, H=14.5, and K=13.8 on-axis guide star."
+2021_gmt_oad_web,"The OIWFS operating in LTAO mode using off-axis NGS shall have a Focus measurement accuracy of < 35 nm at 10 Hz (1-sigma accuracy) when using a J=15.4, H=14.5, and K=13.8 on-axis guide star."
+2021_gmt_oad_web,"The OIWFS operating in LTAO mode using off-axis NGS shall have a Low-order wavefront sensing measurement accuracy of < 45 nm at 0.1 Hz (1-sigma accuracy) when using a J=15.4, H=14.5, and K=13.8 on-axis guide star."
+2021_gmt_oad_web,"The OIWFS operating in LTAO mode using off-axis NGS shall have a Chief ray angle measurement accuracy of < 120 ?rad at 0.1 Hz (1-sigma accuracy) when using a J=15.4, H=14.5, and K=13.8 on-axis guide star."
 2021_gmt_oad_web,The maximum temperature differential between Mount (below M1) and the ambient temperature from evening to morning 12° twilight shall be no greater than 1.0 K.
 2021_gmt_oad_web,The maximum temperature differential between M1 System and the ambient temperature from evening to morning 12° twilight shall be no greater than 0.5 K.
 2021_gmt_oad_web,The maximum temperature differential between M2 ASMS and the ambient temperature from evening to morning 12° twilight shall be no greater than 0.5K .
@@ -723,35 +722,35 @@ source,reqs
 2021_gmt_oad_web,The GMT in the NGAO wavefront control mode shall maintain a median System/ASMS Calibration error no greater than 22.9 nm RMS on-axis over 80% of the observable sky.
 2021_gmt_oad_web,The GMT in the NGAO wavefront control mode shall maintain a median LTWS Calibration error no greater than 22.4 nm RMS on-axis over 80% of the observable sky.
 2021_gmt_oad_web,The GMT in the NGAO wavefront control mode shall maintain a median Instrument Calibration error no greater than 33.5 nm RMS on-axis over 80% of the observable sky.
-2021_gmt_oad_web,The mount shall limit the elastic and hysteric displacement of the Primary mirror vertex dY with respect to OSS coordinates due to changing zenith angles to ? 0.78 mm.
-2021_gmt_oad_web,The mount shall limit the elastic and hysteric displacement of the Primary mirror vertex dZ with respect to OSS coordinates due to changing zenith angles to ? 1.91 mm.
-2021_gmt_oad_web,The mount shall limit the elastic and hysteric displacement of the Primary mirror vertex dRX with respect to OSS coordinates due to changing zenith angles to ? 395 ?rad.
-2021_gmt_oad_web,The mount shall limit the elastic and hysteric displacement of the Primary mirror vertex dRY with respect to OSS coordinates due to changing zenith angles to ? 310 ?rad.
-2021_gmt_oad_web,The mount shall limit the elastic and hysteric displacement of the Primary mirror vertex dRZ with respect to OSS coordinates due to changing zenith angles to ? 77 ?rad.
-2021_gmt_oad_web,The mount shall limit the elastic and hysteric displacement of the Secondary mirror vertex dX with respect to OSS coordinates due to changing zenith angles to ? 0.6 mm.
-2021_gmt_oad_web,The mount shall limit the elastic and hysteric displacement of the Secondary mirror vertex dY with respect to OSS coordinates due to changing zenith angles to ? 0.6 mm.
-2021_gmt_oad_web,The mount shall limit the elastic and hysteric displacement of the Secondary mirror vertex dZ with respect to OSS coordinates due to changing zenith angles to ? 1.4 mm.
-2021_gmt_oad_web,The mount shall limit the elastic and hysteric displacement of the Secondary mirror vertex dRX with respect to OSS coordinates due to changing zenith angles to ? 100 ?rad.
-2021_gmt_oad_web,The mount shall limit the elastic and hysteric displacement of the Secondary mirror vertex dRY with respect to OSS coordinates due to changing zenith angles to ? 100 ?rad.
-2021_gmt_oad_web,The mount shall limit the elastic and hysteric displacement of the Secondary mirror vertex dRZ with respect to OSS coordinates due to changing zenith angles to ? 100 ?rad.
-2021_gmt_oad_web,The mount shall limit the gravity deflection of the Direct Gregorian instrument window dX with respect to OSS coordinates due to changing zenith angles and GIR angle to ? 0.5 mm.
-2021_gmt_oad_web,The mount shall limit the gravity deflection of the Direct Gregorian instrument window dY with respect to OSS coordinates due to changing zenith angles and GIR angle to ? 0.5 mm.
-2021_gmt_oad_web,The mount shall limit the gravity deflection of the Direct Gregorian instrument window dZ with respect to OSS coordinates due to changing zenith angles and GIR angle to ? 0.25 mm.
-2021_gmt_oad_web,The mount shall limit the gravity deflection of the Direct Gregorian instrument window dRX with respect to OSS coordinates due to changing zenith angles and GIR angle to ? 100 ?rad.
-2021_gmt_oad_web,The mount shall limit the gravity deflection of the Direct Gregorian instrument window dRY with respect to OSS coordinates due to changing zenith angles and GIR angle to ? 100 ?rad.
-2021_gmt_oad_web,The mount shall limit the gravity deflection of the Direct Gregorian instrument window dRZ with respect to OSS coordinates due to changing zenith angles and GIR angle to ? 100 ?rad.
-2021_gmt_oad_web,The mount shall limit the gravity deflection of the Folder Port instrument window dX with respect to OSS coordinates due to changing zenith angles and GIR angle to ? 0.5 mm.
-2021_gmt_oad_web,The mount shall limit the gravity deflection of the Folder Port instrument window dY with respect to OSS coordinates due to changing zenith angles and GIR angle to ? 0.5 mm.
-2021_gmt_oad_web,The mount shall limit the gravity deflection of the Folder Port instrument window dZ with respect to OSS coordinates due to changing zenith angles and GIR angle to ? 0.5 mm.
-2021_gmt_oad_web,The mount shall limit the gravity deflection of the Folder Port instrument window dRX with respect to OSS coordinates due to changing zenith angles and GIR angle to ? 100 ?rad.
-2021_gmt_oad_web,The mount shall limit the gravity deflection of the Folder Port instrument window dRY with respect to OSS coordinates due to changing zenith angles and GIR angle to ? 100 ?rad.
-2021_gmt_oad_web,The mount shall limit the gravity deflection of the Folder Port instrument window dRZ with respect to OSS coordinates due to changing zenith angles and GIR angle to ? 100 ?rad.
-2021_gmt_oad_web,The mount shall limit the gravity deflection of the IP instrument window dX with respect to OSS coordinates due to changing zenith angles and GIR angle to ? 0.5 mm.
-2021_gmt_oad_web,The mount shall limit the gravity deflection of the IP instrument window dY with respect to OSS coordinates due to changing zenith angles and GIR angle to ? 0.5 mm.
-2021_gmt_oad_web,The mount shall limit the gravity deflection of the IP instrument window dZ with respect to OSS coordinates due to changing zenith angles and GIR angle to ? 0.5 mm.
-2021_gmt_oad_web,The mount shall limit the gravity deflection of the IP instrument window dRX with respect to OSS coordinates due to changing zenith angles and GIR angle to ? 100 ?rad.
-2021_gmt_oad_web,The mount shall limit the gravity deflection of the IP instrument window dRY with respect to OSS coordinates due to changing zenith angles and GIR angle to ? 100 ?rad.
-2021_gmt_oad_web,The mount shall limit the gravity deflection of the IP instrument window dRZ with respect to OSS coordinates due to changing zenith angles and GIR angle to ? 100 ?rad.
+2021_gmt_oad_web,The mount shall limit the elastic and hysteric displacement of the Primary mirror vertex dY with respect to OSS coordinates due to changing zenith angles to < 0.78 mm.
+2021_gmt_oad_web,The mount shall limit the elastic and hysteric displacement of the Primary mirror vertex dZ with respect to OSS coordinates due to changing zenith angles to < 1.91 mm.
+2021_gmt_oad_web,The mount shall limit the elastic and hysteric displacement of the Primary mirror vertex dRX with respect to OSS coordinates due to changing zenith angles to < 395 ?rad.
+2021_gmt_oad_web,The mount shall limit the elastic and hysteric displacement of the Primary mirror vertex dRY with respect to OSS coordinates due to changing zenith angles to < 310 ?rad.
+2021_gmt_oad_web,The mount shall limit the elastic and hysteric displacement of the Primary mirror vertex dRZ with respect to OSS coordinates due to changing zenith angles to < 77 ?rad.
+2021_gmt_oad_web,The mount shall limit the elastic and hysteric displacement of the Secondary mirror vertex dX with respect to OSS coordinates due to changing zenith angles to < 0.6 mm.
+2021_gmt_oad_web,The mount shall limit the elastic and hysteric displacement of the Secondary mirror vertex dY with respect to OSS coordinates due to changing zenith angles to < 0.6 mm.
+2021_gmt_oad_web,The mount shall limit the elastic and hysteric displacement of the Secondary mirror vertex dZ with respect to OSS coordinates due to changing zenith angles to < 1.4 mm.
+2021_gmt_oad_web,The mount shall limit the elastic and hysteric displacement of the Secondary mirror vertex dRX with respect to OSS coordinates due to changing zenith angles to < 100 ?rad.
+2021_gmt_oad_web,The mount shall limit the elastic and hysteric displacement of the Secondary mirror vertex dRY with respect to OSS coordinates due to changing zenith angles to < 100 ?rad.
+2021_gmt_oad_web,The mount shall limit the elastic and hysteric displacement of the Secondary mirror vertex dRZ with respect to OSS coordinates due to changing zenith angles to < 100 ?rad.
+2021_gmt_oad_web,The mount shall limit the gravity deflection of the Direct Gregorian instrument window dX with respect to OSS coordinates due to changing zenith angles and GIR angle to < 0.5 mm.
+2021_gmt_oad_web,The mount shall limit the gravity deflection of the Direct Gregorian instrument window dY with respect to OSS coordinates due to changing zenith angles and GIR angle to < 0.5 mm.
+2021_gmt_oad_web,The mount shall limit the gravity deflection of the Direct Gregorian instrument window dZ with respect to OSS coordinates due to changing zenith angles and GIR angle to < 0.25 mm.
+2021_gmt_oad_web,The mount shall limit the gravity deflection of the Direct Gregorian instrument window dRX with respect to OSS coordinates due to changing zenith angles and GIR angle to < 100 ?rad.
+2021_gmt_oad_web,The mount shall limit the gravity deflection of the Direct Gregorian instrument window dRY with respect to OSS coordinates due to changing zenith angles and GIR angle to < 100 ?rad.
+2021_gmt_oad_web,The mount shall limit the gravity deflection of the Direct Gregorian instrument window dRZ with respect to OSS coordinates due to changing zenith angles and GIR angle to < 100 ?rad.
+2021_gmt_oad_web,The mount shall limit the gravity deflection of the Folder Port instrument window dX with respect to OSS coordinates due to changing zenith angles and GIR angle to < 0.5 mm.
+2021_gmt_oad_web,The mount shall limit the gravity deflection of the Folder Port instrument window dY with respect to OSS coordinates due to changing zenith angles and GIR angle to < 0.5 mm.
+2021_gmt_oad_web,The mount shall limit the gravity deflection of the Folder Port instrument window dZ with respect to OSS coordinates due to changing zenith angles and GIR angle to < 0.5 mm.
+2021_gmt_oad_web,The mount shall limit the gravity deflection of the Folder Port instrument window dRX with respect to OSS coordinates due to changing zenith angles and GIR angle to < 100 ?rad.
+2021_gmt_oad_web,The mount shall limit the gravity deflection of the Folder Port instrument window dRY with respect to OSS coordinates due to changing zenith angles and GIR angle to < 100 ?rad.
+2021_gmt_oad_web,The mount shall limit the gravity deflection of the Folder Port instrument window dRZ with respect to OSS coordinates due to changing zenith angles and GIR angle to < 100 ?rad.
+2021_gmt_oad_web,The mount shall limit the gravity deflection of the IP instrument window dX with respect to OSS coordinates due to changing zenith angles and GIR angle to < 0.5 mm.
+2021_gmt_oad_web,The mount shall limit the gravity deflection of the IP instrument window dY with respect to OSS coordinates due to changing zenith angles and GIR angle to < 0.5 mm.
+2021_gmt_oad_web,The mount shall limit the gravity deflection of the IP instrument window dZ with respect to OSS coordinates due to changing zenith angles and GIR angle to < 0.5 mm.
+2021_gmt_oad_web,The mount shall limit the gravity deflection of the IP instrument window dRX with respect to OSS coordinates due to changing zenith angles and GIR angle to < 100 ?rad.
+2021_gmt_oad_web,The mount shall limit the gravity deflection of the IP instrument window dRY with respect to OSS coordinates due to changing zenith angles and GIR angle to < 100 ?rad.
+2021_gmt_oad_web,The mount shall limit the gravity deflection of the IP instrument window dRZ with respect to OSS coordinates due to changing zenith angles and GIR angle to < 100 ?rad.
 2021_gmt_oad_web,The M1S shall have a range of motion in the M1 segment X translation degree of freedom of ± 3.0 mm.
 2021_gmt_oad_web,The M1S shall have a range of motion in the M1 segment Y translation degree of freedom of ± 4.75 mm.
 2021_gmt_oad_web,The M1S shall have a range of motion in the M1 segment Z translation degree of freedom of ± 4.0 mm.
@@ -815,8 +814,8 @@ source,reqs
 2021_gmt_oad_web,The GMT shall make stack and center measurements during target acquisition in LTAO mode in a maximum of 5 sec.
 2021_gmt_oad_web,The GMT shall center science target during target acquisition in LTAO mode in a maximum of 120 sec.
 2021_gmt_oad_web,The GMT subsystems shall open enclosure shutter and vents within 10 mins.
-2021_gmt_oad_web,The GMT subsystems shall focus and stack imageswithin 10 mins.
-2021_gmt_oad_web,The GMT subsystems shall calibrate pointing modelwithin 10 mins.
+2021_gmt_oad_web,The GMT subsystems shall focus and stack images within 10 mins.
+2021_gmt_oad_web,The GMT subsystems shall calibrate pointing model within 10 mins.
 2021_gmt_oad_web,"The GMT subsystems shall LGS checkout, LGS focus, tip, tilt, beam optimization and tune laserwithin 15 mins."
 2021_gmt_oad_web,The facilities subsystem shall be maintainable within 2390 hours per year.
 2021_gmt_oad_web,The enclosure subsystem shall be maintainable within 842 hours per year.

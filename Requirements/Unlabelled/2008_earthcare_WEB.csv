@@ -287,7 +287,7 @@ source,reqs
 2008_earthcare_web,The inter-channel temporal co-registration shall be smaller than 2.5 sec.
 2008_earthcare_web,The system modulation transfer function (MTF) shall be larger than 0.25 for all frequencies between 0 km-1 and Nyquist frequency.
 2008_earthcare_web,The MSI polarization sensitivity shall be less than 0.01 in the solar channels.
-2008_earthcare_web,The MSI polarization sensitivity shall be less than0.1 (0.04 goal) in the TIR channels.
+2008_earthcare_web,The MSI polarization sensitivity shall be less than 0.1 (0.04 goal) in the TIR channels.
 2008_earthcare_web,The specified MSI requirements shall be achieved within 5 spatial sampling distances after observation of sun glint radiances Lsg .
 2008_earthcare_web,The data acquired in the solar channels polluted by sun-glint signal with equivalent surface reflectance exceeding 0.005 shall be flagged.
 2008_earthcare_web,The specified MSI requirements shall be achieved within 5 spatial sampling distances after observation of a hot scene of 10x10 km2 with a brightness temperature of 500 K
@@ -349,7 +349,7 @@ source,reqs
 2008_earthcare_web,BBR shall measure Earth radiance along-track with a sampling along the satellite’s flight direction in Backward view with an OZA of 55 degrees for both the SW and TW channels.
 2008_earthcare_web,The spatial resolution ?X shall be smaller than or equal to 10 km
 2008_earthcare_web,The spatial sampling distance along track shall be constant within ±1% and smaller than or equal to 1km.
-2008_earthcare_web,The integrated energy over a square target of size 1.5 x ?X shall be at least 99%.
+2008_earthcare_web,The integrated energy over a square target of size 1.5 x dX shall be at least 99%.
 2008_earthcare_web,The instrument polarisation sensitivity shall be less than 0.01 in the spectral range 0.2µm – 4.0µm. BBR-PS-2 The instrument polarisation sensitivity beyond 4.0 µm shall be minimised.
 2008_earthcare_web,The specified observational requirements shall be achieved within 5 (TBC) spatial sampling distances after observation of a hot scene of 10x10 km2 with a brightness temperature of 500 K
 2008_earthcare_web,"BBR shall be able to recover from direct sun exposure, capable of observing the sun during 60 seconds TBC and maintain full compliance to the instrument requirements after such event."
@@ -714,7 +714,6 @@ source,reqs
 2008_earthcare_web,"The AOCS shall protect against direct impact of atomic oxygen on sensitive surfaces at all times (This will especially include the period between separation and initial attitude acquisition, or the period following an AOCS anomaly, i.e the Safe Mode transition and Safe Mode steady state operation)"
 2008_earthcare_web,The AOCS control shall not generate internal mechanical disturbances that can endanger the deployment sequence of any appendages (solar panel or antenna)
 2008_earthcare_web,The AOCS shall be able to acquire the nominal Earth pointing attitude and rates from any initial attitude and rates limited only by the physical integrity of the satellite
-2008_earthcare_web,"After separation from the launch vehicle, the AOCS shall"
 2008_earthcare_web,"After separation from the launch vehicle, the AOCS shall damp out the residual angular rates as specified by the launcher specification,"
 2008_earthcare_web,"After separation from the launch vehicle, the AOCS shall bring the spacecraft into a power safe pointing attitude within a time compatible with the spacecraft internal power."
 2008_earthcare_web,"After separation from the launch vehicle, the AOCS shall maintain the spacecraft in this pointing attitude ready to receive ground commands."
@@ -941,7 +940,6 @@ source,reqs
 2008_earthcare_web,"The DHS shall implement the protected memory resources/Safeguard recorder with the capacity as required by sections 6.4/observability and 6.8/FDIR to store spacecraft and equipment configuration, health status, anomalies."
 2008_earthcare_web,"As a key tool for failure diagnosis - and isolation - in all EarthCARE modes and operations, the Safeguard recorder shall be designed to ensure/maximize the integrity and perenniality of the stored information. As baseline, a non-volatile memory technology shall be used to cope with failures, including power outages."
 2008_earthcare_web,The DHS shall support the closed-loop control functions implemented in the EarthCARE (platform) DHS on-board software. This includes the provision of the necessary processing resources and the availability of adequate sensor acquisition and actuator distribution channels.
-2008_earthcare_web,"Adequate margins of DHS resources shall be available. Until launch time, these margins shall be at least 25% for"
 2008_earthcare_web,"Adequate margins of DHS resources shall be available. Until launch time, these margins shall be at least 25% for CPU load / processing power (for an agreed set of representative worst-case scenarios)."
 2008_earthcare_web,"Adequate margins of DHS resources shall be available. Until launch time, these margins shall be at least 25% for Memory (volatile and non-volatile)"
 2008_earthcare_web,"Adequate margins of DHS resources shall be available. Until launch time, these margins shall be at least 25% for Telecommand channel (throughput, VCs)"
@@ -1032,7 +1030,6 @@ source,reqs
 2008_earthcare_web,Skin connectors shall also be provided to make-or-break power circuits.
 2008_earthcare_web,"Caps, bridging connectors, and thermal insulation for flight shall close all these skin connectors. During testing activities these connectors shall be protected by connector savers."
 2008_earthcare_web,There shall be umbilical and test connectors to provide electrical interfaces respectively with the launcher and with the EGSE. Functions provided shall include all those necessary for supporting AIT and launch site activities.
-2008_earthcare_web,Skin test connectors shall be provided to support AIT activities in order to
 2008_earthcare_web,Skin test connectors shall be provided to support AIT activities in order to monitor spacecraft operation
 2008_earthcare_web,"Skin test connectors shall be provided to support AIT activities in order to maintain synchronisation between satellite, EGSE and real time simulators"
 2008_earthcare_web,Skin test connectors shall be provided to support AIT activities in order to put the satellite in a defined operation scenario (e.g. quick upload of SW or mass memory images)

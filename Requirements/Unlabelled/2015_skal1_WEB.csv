@@ -446,7 +446,7 @@ source,reqs
 2005_skal1_WEB,"SKA1_Low correlation, for each sub array, shall not degrade the Signal to Noise ratio by more than 2 % compared to ideal analogue correlation."
 2005_skal1_WEB,The SKA1_Low correlator for each sub array shall have independently configurable visibility integration periods in the range 9s to 0.9s.
 2005_skal1_WEB,SKA1 dishes shall have a projected diameter of larger than 15m and smaller than 16.5m.
-2005_skal1_WEB,Aperture efficiency shall be within +/- 5 % of: ? 60% at 350MHz with gradual degradation from 400 to 350 MHz ? 65% at 400MHz ? 78% from 600MHz to 8000MHz ? 70% from 8 to 15 GHz ? 65% from 15 to 20 GHz
+2005_skal1_WEB,"Aperture efficiency shall be within +/- 5% of: 60% at 350MHz with gradual degradation from 400 to 350 MHz, 65% at 400MHz, 78% from 600MHz to 8000MHz, 70% from, to 15 GHz, 65% from 15 to 20 GHz."
 2005_skal1_WEB,The pointing repeatability shall be better than 10 arc seconds rms for winds < 7 m/s at night time.
 2005_skal1_WEB,The pointing repeatability shall be better than 17 arc seconds rms for an average wind speed of < 7 m/s in the day time
 2005_skal1_WEB,The pointing repeatability shall be better than 180 arc seconds rms for an average wind speed between 7 and 20 m/s
@@ -472,7 +472,7 @@ source,reqs
 2005_skal1_WEB,0 G samples per second for each polarisation
 2005_skal1_WEB,0 G samples per second for each polarisation.
 2005_skal1_WEB,5 GHz bands for each polarisation.
-2005_skal1_WEB,Digitisation for each polarisation shall be: ? band 1 8 bits ? band 2 8 bits ? band 3 6 bits ? band 4 at least 4 bits ? band 5 at least 2 streams of 3 bits
+2005_skal1_WEB,"Digitisation for each polarisation shall be: band 1 8 bits, band 2 8 bits, band 3 6 bits, band 4 at least 4 bits, band 5 at least 2 streams of 3 bits"
 2005_skal1_WEB,The SKA1_Mid shall be able to correlate SKA1_mid dishes as multiple sub-arrays independently and concurrently..
 2005_skal1_WEB,"The SKA1_Mid channelisation for each sub array shall provide up to 65,536 linearly spaced frequency channels across the sampled bandwidth of each band."
 2005_skal1_WEB,The SKA1_Mid for each sub-array shall have a maximum noise leakage power from immediately adjacent frequency channels of < -30 dB

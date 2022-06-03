@@ -4,10 +4,10 @@ source,reqs
 2021_tmt_oad_WEB,All sub-systems shall meet their Survival requirements over the ambient air pressure range 590 -1025hPa.
 2021_tmt_oad_WEB,All sub-systems shall meet their Survival requirements when in an unpowered state.
 2021_tmt_oad_WEB,All sub-systems shall meet their Observing and Facility Performance requirements when equipment is continually exposed to ozone concentrations of 50 parts per billion.
-2021_tmt_oad_WEB,The enclosure and unprotected equipment shall meet its observing performance requirements over the range -5?C to +9?C.
-2021_tmt_oad_WEB,The enclosure and unprotected equipment shall meet its facility performance requirements over the range -10?C to +13?C.
-2021_tmt_oad_WEB,The enclosure and unprotected equipment shall meet its component functional requirements over the range -13?C to +25?C.
-2021_tmt_oad_WEB,The enclosure and unprotected equipment shall meet its survival requirements over the range -16?C to +30?C.
+2021_tmt_oad_WEB,The enclosure and unprotected equipment shall meet its observing performance requirements over the range -5°C to +9°C.
+2021_tmt_oad_WEB,The enclosure and unprotected equipment shall meet its facility performance requirements over the range -10°C to +13°C.
+2021_tmt_oad_WEB,The enclosure and unprotected equipment shall meet its component functional requirements over the range -13°C to +25°C.
+2021_tmt_oad_WEB,The enclosure and unprotected equipment shall meet its survival requirements over the range -16°C to +30°C.
 2021_tmt_oad_WEB,"The enclosure and unprotected equipment shall meet Observing Performance, Facility Performance, and Component Functional requirements when the absolute temperature variation is within the 99.9% values defined in Table: Temporal Temperature Gradients Inside and Outside Enclosure."
 2021_tmt_oad_WEB,The enclosure and unprotected equipment shall meet Survival requirements at temperature gradients up to the maximum level stated in Table: Temporal Temperature Gradients Inside and Outside Enclosure.
 2021_tmt_oad_WEB,The enclosure and unprotected equipment shall meet its Observing Performance requirements when relative humidity is between 0 and 95% at temperatures between -5 to +9 ?C.
@@ -22,32 +22,32 @@ source,reqs
 2021_tmt_oad_WEB,The Summit Facilities and Enclosure shall be able to support snow loads up to 150kg/m2.
 2021_tmt_oad_WEB,The Summit Facilities and Enclosure shall be able to support ice loads up to 68kg/m2.
 2021_tmt_oad_WEB,The Enclosure and unprotected equipment shall meet its Observing and Facility Performance requirements when equipment is continually exposed to dust concentrations as defined in Table: Median dust levels at Mauna Kea site below REQ-1-OAD-1241.
-2021_tmt_oad_WEB,Any equipment inside the enclosure shall meet its Observing Performance requirements over a temperature range from -5?C to +9?C.
-2021_tmt_oad_WEB,Any equipment inside the enclosure shall meet its Facility Performance requirements over a temperature range from -10?C to +13?C.
-2021_tmt_oad_WEB,Any equipment inside the enclosure shall meet its Component Functional requirements over a temperature range from -13?C to +25?C.
-2021_tmt_oad_WEB,Any equipment inside the enclosure shall meet its Survival Requirements over a temperature range from -16?C to +30?C.
+2021_tmt_oad_WEB,Any equipment inside the enclosure shall meet its Observing Performance requirements over a temperature range from -5°C to +9°C.
+2021_tmt_oad_WEB,Any equipment inside the enclosure shall meet its Facility Performance requirements over a temperature range from -10°C to +13°C.
+2021_tmt_oad_WEB,Any equipment inside the enclosure shall meet its Component Functional requirements over a temperature range from -13°C to +25°C.
+2021_tmt_oad_WEB,Any equipment inside the enclosure shall meet its Survival Requirements over a temperature range from -16°C to +30°C.
 2021_tmt_oad_WEB,"Any equipment inside the enclosure shall meet Observing Performance, Facility Performance, and Component Functional requirements when the absolute temperature variation is within the 99.9% night-time values defined in Table 4-1: Temporal Temperature Gradients Inside and Outside Enclosure."
 2021_tmt_oad_WEB,Any equipment inside the enclosure shall meet Survival requirements at temperature gradients up to the 99.9% values for all data as stated in Table 4-1: Temporal Temperature Gradients Inside and Outside Enclosure.
 2021_tmt_oad_WEB,"The TMT Optics systems (M1, M2, M3, M1CS) shall meet their requirements for overall image quality at a temperature difference of 2?C from the most recent APS alignment."
 2021_tmt_oad_WEB,"The sub-systems inside the enclosure shall meet their Observing Performance, Facility Performance, and Survival requirements under the conditions defined in Table 4-2: Wind speeds inside enclosure."
 2021_tmt_oad_WEB,The sub-systems inside the enclosure shall meet their Observing and Facility Performance requirements when relative humidity is between 0 and 95% at their respective temperature ranges.
-2021_tmt_oad_WEB,The sub-systems inside the enclosure shall meet their Component Functional requirements when relative humidity is between 0 and 95% at temperatures between -10?C to +13?C.
-2021_tmt_oad_WEB,The sub-systems inside the enclosure shall meet their Survival requirements when humidity is between 0 and 100% (condensing conditions) at temperatures between -10?C to +13?C
+2021_tmt_oad_WEB,The sub-systems inside the enclosure shall meet their Component Functional requirements when relative humidity is between 0 and 95% at temperatures between -10°C to +13°C.
+2021_tmt_oad_WEB,The sub-systems inside the enclosure shall meet their Survival requirements when humidity is between 0 and 100% (condensing conditions) at temperatures between -10°C to +13°C
 2021_tmt_oad_WEB,The sub-systems inside the enclosure shall meet Observing and Facility Performance requirements when equipment is continually exposed to dust concentrations as defined in Table 4-3: Median dust levels at Mauna Kea Site.
-2021_tmt_oad_WEB,The Summit Facilities Utility Room temperature shall be maintained between 0?C and 25?C at any time that equipment inside it is expected to operate.
+2021_tmt_oad_WEB,The Summit Facilities Utility Room temperature shall be maintained between 0°C and 25°C at any time that equipment inside it is expected to operate.
 2021_tmt_oad_WEB,The Summit Facilities Utility Room relative humidity shall be maintained between 0 and 95% at any time that equipment inside it is expected to operate.
-2021_tmt_oad_WEB,"All equipment located in the Summit Facilities Utility Room shall survive exposure to temperatures in the range 0-35?C. In the range 0 to -16?C, equipment can be assumed to be non-operational, in the range 0-35?C the equipment may be operational."
+2021_tmt_oad_WEB,"All equipment located in the Summit Facilities Utility Room shall survive exposure to temperatures in the range 0-35°C. In the range 0 to -16°C, equipment can be assumed to be non-operational, in the range 0-35°C the equipment may be operational."
 2021_tmt_oad_WEB,All equipment in the Summit Facilities Utility Room shall survive exposure to relative humidity levels up to 100% (condensing conditions). Equipment may be assumed to be non-operational at relative humidity levels >95%.
-2021_tmt_oad_WEB,The Summit Facilities Computer Room temperature shall be maintained between 15-22?C at all times that equipment inside it is expected to operate.
-2021_tmt_oad_WEB,The Summit Facilities Computer Room temperature rate of change shall not exceed 20?C/hour at any time that equipment within it is expected to operate.
-2021_tmt_oad_WEB,The Summit Facilities Computer Room humidity level shall be maintained between 20-80% RH with a maximum dew point of 17?C at all times that equipment inside it is expected to operate.
-2021_tmt_oad_WEB,"Computer Room equipment, in its power off state, shall survive exposure to temperatures in the range -16 to 45?C."
-2021_tmt_oad_WEB,"Computer Room equipment, in its power off state, shall survive exposure to humidity in the range 8-80% RH with a maximum dew point of 27?C."
+2021_tmt_oad_WEB,The Summit Facilities Computer Room temperature shall be maintained between 15-22°C at all times that equipment inside it is expected to operate.
+2021_tmt_oad_WEB,The Summit Facilities Computer Room temperature rate of change shall not exceed 20°C/hour at any time that equipment within it is expected to operate.
+2021_tmt_oad_WEB,The Summit Facilities Computer Room humidity level shall be maintained between 20-80% RH with a maximum dew point of 17°C at all times that equipment inside it is expected to operate.
+2021_tmt_oad_WEB,"Computer Room equipment, in its power off state, shall survive exposure to temperatures in the range -16 to 45°C."
+2021_tmt_oad_WEB,"Computer Room equipment, in its power off state, shall survive exposure to humidity in the range 8-80% RH with a maximum dew point of 27°C."
 2021_tmt_oad_WEB,The observatory shall be designed to support 20 slewing moves per night over its 50-year lifespan.
 2021_tmt_oad_WEB,The observatory shall be designed to support 20 slewing moves per day over its 50-year lifespan.
-2021_tmt_oad_WEB,The observatory shall be designed to support average azimuth slewing distance of 60? over its 50-year lifespan.
-2021_tmt_oad_WEB,The observatory shall be designed to support average elevation slewing distance of 15? over its 50-year lifespan.
-2021_tmt_oad_WEB,The observatory shall be designed to support an average nighttime zenith angle of 32.5? over its 50-year lifespan.
+2021_tmt_oad_WEB,The observatory shall be designed to support average azimuth slewing distance of 60° over its 50-year lifespan.
+2021_tmt_oad_WEB,The observatory shall be designed to support average elevation slewing distance of 15° over its 50-year lifespan.
+2021_tmt_oad_WEB,The observatory shall be designed to support an average nighttime zenith angle of 32.5° over its 50-year lifespan.
 2021_tmt_oad_WEB,"TMT subsystems shall not emit, nor be susceptible to, electromagnetic radiation or electromagnetic conduction at any frequency that significantly interferes with the operation of itself, any other TMT subsystems, or any other astronomical facilities."
 2021_tmt_oad_WEB,"To prevent electromagnetic interference with the operation of the M1CS edge sensors, subsystems/equipment with drive system motors and variable speed motor drives operating at nighttime within the enclosure shall not operate at frequencies between 35-100 kHz, and use fixed frequency chopping if such equipment operates at frequencies below 35 kHz."
 2021_tmt_oad_WEB,"Any equipment with exposed surfaces that are expected to be below the dew point in normal operation shall be equipped with drip trays, drains or other devices to prevent condensation forming on these surfaces dripping onto other equipment."
@@ -86,8 +86,7 @@ source,reqs
 2021_tmt_oad_WEB,Sub-systems shall operate between -5° to +13°C after a 200-year return period earthquake.
 2021_tmt_oad_WEB,Sub-systems shall operate between -5° to +13°C after a 1000-year return period earthquake.
 2021_tmt_oad_WEB,"Derating of seismic loading for 200- or 1000-year return period earthquakes for equipment in temporary configurations whose failure can damage the M1, M2, M3 or present worse than a marginal hazard to personnel shall use the acceleration scaling factors in Table 4-7: Seismic Acceleration Scaling Factors for Temporary Configurations - Personnel/Optics Safety."
-2021_tmt_oad_WEB,Derating of seismic loading for 200- or 1000-year return period earthquakes for equipment in temporary configurations not covered by
-2021_tmt_oad_WEB,shall use the acceleration scaling factors in Table 4-8: Seismic Acceleration Scaling Factors for Temporary Configurations.
+2021_tmt_oad_WEB,Derating of seismic loading for 200- or 1000-year return period earthquakes for equipment in temporary configurations not covered by shall use the acceleration scaling factors in Table 4-8: Seismic Acceleration Scaling Factors for Temporary Configurations.
 2021_tmt_oad_WEB,The telescope azimuth axis shall operate over an angle of 500 degrees without unwrapping.
 2021_tmt_oad_WEB,The azimuth range shall be -330° to +170° relative to the TCRS Coordinate System.
 2021_tmt_oad_WEB,Power and services for all systems mounted on the telescope shall be routed through a cable wrap centered on the azimuth rotational axis.
@@ -115,12 +114,12 @@ source,reqs
 2021_tmt_oad_WEB,"The Nasmyth platforms, instruments and their support structures must not extend outside the volume defined in TMT.INS.GTY.0003 (AD52)."
 2021_tmt_oad_WEB,The Nasmyth platforms shall provide a permanent platform covering the area defined in TMT.INS.GTY-0004 (AD74) at an elevation of 7 m below the elevation axis. All structure above this level shall be reconfigurable.
 2021_tmt_oad_WEB,"No part of the telescope structure shall obscure the light path to the science instruments as defined in (AD73) or the incoming light to the primary mirror as defined in (AD81), over the full range of observing zenith angles."
-2021_tmt_oad_WEB,"The STR, excluding the Instrument Support Structures, shall deliver an unobscured FOV 20 arcmin diameter at -21º to 5 arcmin diameter at -26.5º for the +X Nasmyth Platform."
-2021_tmt_oad_WEB,"The STR, excluding the Instrument Support Structures, shall deliver a full FOV of 20 arcmin diameter for Nasmyth foci locations from -21º to 0º, without obscuration by the telescope structure for the +X Nasmyth Platform."
-2021_tmt_oad_WEB,"The STR, excluding the Instrument Support Structures, shall deliver an unobscured FOV from 20 arcmin diameter at 0º to 5 arcmin diameter at +5.5º for the +X Nasmyth Platform."
-2021_tmt_oad_WEB,"The STR, excluding the Instrument Support Structures, shall deliver an unobscured FOV from 20 arcmin diameter at +180º to 5 arcmin at +174.5º for the -X Nasmyth Platform."
-2021_tmt_oad_WEB,"The STR, excluding the Instrument Support Structures, shall deliver a full FOV of 20 arcmin diameter for Nasmyth foci locations from +180º to 201º, without obscuration by the telescope structure for the -X Nasmyth Platform."
-2021_tmt_oad_WEB,"The STR, excluding the Instrument Support Structures, shall deliver an unobscured FOV from 20 arcmin diameter at +201º to 5 arcmin diameter at +206.5º for the -X Nasmyth Platform."
+2021_tmt_oad_WEB,"The STR, excluding the Instrument Support Structures, shall deliver an unobscured FOV 20 arcmin diameter at -21° to 5 arcmin diameter at -26.5° for the +X Nasmyth Platform."
+2021_tmt_oad_WEB,"The STR, excluding the Instrument Support Structures, shall deliver a full FOV of 20 arcmin diameter for Nasmyth foci locations from -21° to 0°, without obscuration by the telescope structure for the +X Nasmyth Platform."
+2021_tmt_oad_WEB,"The STR, excluding the Instrument Support Structures, shall deliver an unobscured FOV from 20 arcmin diameter at 0° to 5 arcmin diameter at +5.5° for the +X Nasmyth Platform."
+2021_tmt_oad_WEB,"The STR, excluding the Instrument Support Structures, shall deliver an unobscured FOV from 20 arcmin diameter at +180° to 5 arcmin at +174.5° for the -X Nasmyth Platform."
+2021_tmt_oad_WEB,"The STR, excluding the Instrument Support Structures, shall deliver a full FOV of 20 arcmin diameter for Nasmyth foci locations from +180° to 201°, without obscuration by the telescope structure for the -X Nasmyth Platform."
+2021_tmt_oad_WEB,"The STR, excluding the Instrument Support Structures, shall deliver an unobscured FOV from 20 arcmin diameter at +201° to 5 arcmin diameter at +206.5° for the -X Nasmyth Platform."
 2021_tmt_oad_WEB,"At first light, the Nasmyth Platforms shall be implemented in a way that supports the Alignment and Phasing System, on-axis at first light, and at a position approximately 14 degrees off the elevation axis."
 2021_tmt_oad_WEB,"At First Light, the Nasmyth Platforms shall provide support for the following instruments, each at their own foci: NFIRAOS with the NSCU, feeding IRIS and MODHIS, at the 174.5 degree position on the -X platform, WFOS at the 0 degree position on the +X platform, and APS at the 180 degree position on-axis and beside NFIRAOS."
 2021_tmt_oad_WEB,"The Nasmyth Platforms shall be upgradeable to support the following First Decade instruments, each at their own foci and with their required field of view: IRMOS, MIRES, PFI, NIRES, HROS."
@@ -199,7 +198,7 @@ source,reqs
 2021_tmt_oad_WEB,"The telescope structure and primary mirror cell shall be designed such that relative in-plane motion between any two adjacent segments results in a segment gap change of less than 0.54 mm under all Observing Performance conditions, and less than 1.0 mm under all Facility Performance conditions."
 2021_tmt_oad_WEB,The telescope structure and primary mirror cell shall be designed such that segment to segment contact does not occur under the conditions defined in the table below.
 2021_tmt_oad_WEB,"The projections of the segments on the X-Y plane of the ECRS shall be hexagons radially scaled from 492 regular hexagons with side length of approximately 0.716 m, by the factor of:"
-2021_tmt_oad_WEB,"The radial scaling coefficient, ?, of [REQ-1-OAD-1750] shall be 0.1650."
+2021_tmt_oad_WEB,The radial scaling coefficient of [REQ-1-OAD-1750] shall be 0.1650.
 2021_tmt_oad_WEB,"The nominal (theoretically perfect) geometry of the segment vertex co- ordinates, segment co-ordinate systems, edge sensor locations, mirror cell to primary segment assembly attachment points and segment position actuator locations shall be as defined in the TMT M1 Segmentation Database (AD16)."
 2021_tmt_oad_WEB,Each segment shall have interface features that allow it to be positioned precisely in the correct position and orientation when it is substituted into any of six locations in the array.
 2021_tmt_oad_WEB,The M1 shall incorporate alignment features that allow its global position to be accurately and quickly measured by the Global Metrology System (GMS).
@@ -255,11 +254,11 @@ source,reqs
 2021_tmt_oad_WEB,"ESEN shall provide dew point measurements with an accuracy better than ±0.2K, an averaging sampling rate <1min, and a response rate of <30s."
 2021_tmt_oad_WEB,ESEN shall provide barometric pressure measurements with an accuracy better than 1 hPA to inform refraction and atmospheric-dispersion adjustments.
 2021_tmt_oad_WEB,"ESEN shall provide measurements of the lateral tilt (pitch) and longitudinal tilt (roll) of the telescope, with resolutions equal to or better than 0.05 arcseconds and long term repeatability equal to or better than 0.2 arcseconds, to compensate for mount tip/tilt effects on pointing. Accelerometers mounted to the telescope structure are required for monitoring vibration and related dynamic disturbances, and assessing structural dynamics for model validation and control design."
-2021_tmt_oad_WEB,"ESEN shall provide single-axis accelerometers, with a frequency range of at least 5 Hz to 200 Hz and a noise floor at 5 Hz better than 0.25 µg/?Hz, to capture both image motion and focus/astigmatism at M1."
-2021_tmt_oad_WEB,"ESEN shall provide accelerometers, with a frequency range of at least 5 Hz to 200 Hz and a noise floor at 5 Hz better than 0.25 µg/?Hz, to capture both tip/tilt and decentering motion at M2."
-2021_tmt_oad_WEB,"ESEN shall provide single-axis accelerometers, with a frequency range of at least 5 Hz to 200 Hz and a noise floor at 5 Hz better than 0.25 µg/?Hz, to capture both tip/tilt and decentering motion at M3."
-2021_tmt_oad_WEB,"ESEN shall provide three-axis accelerometers, with a frequency range of at least 5 Hz to 200 Hz and a noise floor at 5 Hz better than 0.25 µg/?Hz, on each Nasmyth platform to resolve key structural modes and help identify vibration sources."
-2021_tmt_oad_WEB,"ESEN shall provide three-axis accelerometers, with a frequency range of at least 5 Hz to 200 Hz and a noise floor at 5 Hz better than 0.25 µg/?Hz, on the pier to resolve whether vibration sources are coming from off the telescope."
+2021_tmt_oad_WEB,"ESEN shall provide single-axis accelerometers, with a frequency range of at least 5 Hz to 200 Hz and a noise floor at 5 Hz better than 0.25 µg/Hz, to capture both image motion and focus/astigmatism at M1."
+2021_tmt_oad_WEB,"ESEN shall provide accelerometers, with a frequency range of at least 5 Hz to 200 Hz and a noise floor at 5 Hz better than 0.25 µg/Hz, to capture both tip/tilt and decentering motion at M2."
+2021_tmt_oad_WEB,"ESEN shall provide single-axis accelerometers, with a frequency range of at least 5 Hz to 200 Hz and a noise floor at 5 Hz better than 0.25 µg/Hz, to capture both tip/tilt and decentering motion at M3."
+2021_tmt_oad_WEB,"ESEN shall provide three-axis accelerometers, with a frequency range of at least 5 Hz to 200 Hz and a noise floor at 5 Hz better than 0.25 µg/Hz, on each Nasmyth platform to resolve key structural modes and help identify vibration sources."
+2021_tmt_oad_WEB,"ESEN shall provide three-axis accelerometers, with a frequency range of at least 5 Hz to 200 Hz and a noise floor at 5 Hz better than 0.25 µg/Hz, on the pier to resolve whether vibration sources are coming from off the telescope."
 2021_tmt_oad_WEB,The SCMS shall gather time-stamped barometric pressure measurements every 10 seconds of the following meteorological and atmospheric sensors located at the weather tower on the north edge of the TMT site.
 2021_tmt_oad_WEB,The SCMS shall gather time-stamped temperature measurements every 10 seconds of the following meteorological and atmospheric sensors located at the weather tower on the north edge of the TMT site.
 2021_tmt_oad_WEB,The SCMS shall gather time-stamped relative humidity measurements every 10 seconds of the following meteorological and atmospheric sensors located at the weather tower on the north edge of the TMT site.
@@ -367,12 +366,12 @@ source,reqs
 2021_tmt_oad_WEB,The WFOS wavelength range shall be 0.31 - 1.0 µm.
 2021_tmt_oad_WEB,"WFOS, in imaging mode and excluding atmospheric seeing and telescope contributions, shall yield an image quality measured at the instrument focal plane, including polychromatic correction residuals, no worse than 0.45 arcsec FWHM."
 2021_tmt_oad_WEB,"WFOS in spectroscopy mode, excluding atmospheric seeing and telescope contributions, shall yield encircled energy > 80% within an angular diameter of 0.25 arcsec on-sky."
-2021_tmt_oad_WEB,The WFOS spectroscopy field of view shall be ? 25 arcmin2.
-2021_tmt_oad_WEB,The WFOS imaging field of view shall be ? 25 arcmin2.
-2021_tmt_oad_WEB,The WFOS total slit length shall be ? 500 arcsec.
+2021_tmt_oad_WEB,The WFOS spectroscopy field of view shall be > 25 arcmin2.
+2021_tmt_oad_WEB,The WFOS imaging field of view shall be > 25 arcmin2.
+2021_tmt_oad_WEB,The WFOS total slit length shall be > 500 arcsec.
 2021_tmt_oad_WEB,"WFOS shall provide a medium resolution mode with a median spectral resolution of R > 3500, with a 0.75 arcsec slit."
 2021_tmt_oad_WEB,"WFOS shall provide a low resolution mode with a median spectral resolution of R > 1500, with a 0.75 arcsec slit, over the full waveband in one exposure."
-2021_tmt_oad_WEB,"WFOS, in spectroscopy mode, shall have an on-axis throughput of ? 25% from 0.31 µm - 1.00 µm, and ? 30% from 0.35 µm - 0.90 µm, not including the telescope."
+2021_tmt_oad_WEB,"WFOS, in spectroscopy mode, shall have an on-axis throughput of > 25% from 0.31 µm - 1.00 µm, and > 30% from 0.35 µm - 0.90 µm, not including the telescope."
 2021_tmt_oad_WEB,"WFOS systematic errors, arising from background subtraction, scattered light, and detector noise, evaluated over a cumulative 8 hours of on-source integration time and at the channel centers of the low and medium resolution modes, shall degrade the sky background- subtracted signal-to-noise ratio by no more than 5% of the sky background Poisson error."
 2021_tmt_oad_WEB,"WFOS systematic errors, arising from background subtraction, scattered light, and detector noise, evaluated over a cumulative 8 hours of on-source integration time and at the channel centers of the low and medium resolution modes, shall introduce biases in accuracy no greater than 10% of the sky background Poisson error."
 2021_tmt_oad_WEB,"Stability of the spectral format on the WFOS detector focal plane, excluding atmospheric seeing and telescope contributions, shall be less than 1 pixel over a duration of 3 hours."
@@ -383,14 +382,14 @@ source,reqs
 2021_tmt_oad_WEB,MODHIS shall provide a pupil mask that can rotate to match the telescope pupil.
 2021_tmt_oad_WEB,The MODHIS science channel shall provide wavelength coverage over the 0.95 µm – 2.4 µm range.
 2021_tmt_oad_WEB,The MODHIS science channel shall provide simultaneous coverage for a given science target across the full yJ and HK astronomical bands.
-2021_tmt_oad_WEB,"MODHIS shall provide an average spectral resolution R ? 100,000 over its entire science passband."
-2021_tmt_oad_WEB,MODHIS shall provide an instrumental radial velocity precision of ? 30 cm/s (goal of 10 cm/s).
+2021_tmt_oad_WEB,"MODHIS shall provide an average spectral resolution R > 100,000 over its entire science passband."
+2021_tmt_oad_WEB,MODHIS shall provide an instrumental radial velocity precision of > 30 cm/s (goal of 10 cm/s).
 2021_tmt_oad_WEB,The MODHIS science channel shall be capable of performing science on a single target with a goal of offering a multiplex of up to 4 separate simultaneous science targets.
-2021_tmt_oad_WEB,MODHIS shall provide an unvignetted field-of-regard ? 4 x 4 arcsecs square.
+2021_tmt_oad_WEB,MODHIS shall provide an unvignetted field-of-regard > 4 x 4 arcsecs square.
 2021_tmt_oad_WEB,"The MODHIS science channel shall be capable of Nyquist sampling a point source from within the field-of-regard in each of y, J, H, and K bands."
-2021_tmt_oad_WEB,The MODHIS science channel end-to-end throughput shall be ? 10%.
+2021_tmt_oad_WEB,The MODHIS science channel end-to-end throughput shall be > 10%.
 2021_tmt_oad_WEB,The MODHIS front end instrument shall not degrade the wavefront quality of that delivered by NFIRAOS by more than 40 nm RMS.
-2021_tmt_oad_WEB,The MODHIS spectrograph shall provide an ensquared energy ? 80% within a single pixel across 95% of the detector area.
+2021_tmt_oad_WEB,The MODHIS spectrograph shall provide an ensquared energy > 80% within a single pixel across 95% of the detector area.
 2021_tmt_oad_WEB,MODHIS shall enable subtraction of the background to better than 1%.
 2021_tmt_oad_WEB,"MODHIS shall provide raw contrast ratio of ? 100 from 0.5 ?/D to 2 ?/D and ? 1,000 from 2 ?/D to the edge of the field of regard."
 2021_tmt_oad_WEB,MODHIS shall provide spectropolarimetry with 0.1% (goal) polarimetric precision in y and J bands.
@@ -482,7 +481,6 @@ source,reqs
 2021_tmt_oad_WEB,The enclosure system shall provide sufficient protection from wind loading on the telescope to allow the observatory system to meet operational requirements and dynamic image motion error budget requirements.
 2021_tmt_oad_WEB,The enclosure shall incorporate aperture flaps to deflect wind at the aperture opening to reduce dynamic loading on the top end of the telescope.
 2021_tmt_oad_WEB,"The enclosure and summit facility fixed base shall be sealed to minimize influx of air and dust when in non-observing, aperture-closed mode."
-2021_tmt_oad_WEB,The external surface of the enclosure shall have the following properties:
 2021_tmt_oad_WEB,The external surface of the enclosure shall have emissivity <0.4.
 2021_tmt_oad_WEB,The external surface of the enclosure shall have absorptivity <0.2.
 2021_tmt_oad_WEB,The external surface of the enclosure shall have emissivity not less than absorptivity.
@@ -601,11 +599,6 @@ source,reqs
 2021_tmt_oad_WEB,ll have a maximum reach of no less than 5.75m (between R 23.25m to R 29.0 m relative to the TCRS z-axis).
 2021_tmt_oad_WEB,ll have a maximum hook height of at least 24.8 m above the TCRS XY plane.
 2021_tmt_oad_WEB,"There shall be a 10 metric tonne capacity, enclosure shutter mounted hoist."
-2021_tmt_oad_WEB,ave a maximum reach of no less than R 0.0m to R 27.5m relative to the TCRS z-axis.
-2021_tmt_oad_WEB,ave a maximum hook height at least 30.9m above the TCRS XY plane at 27.5 m radius.
-2021_tmt_oad_WEB,ave a maximum hook height at least 48.5m above the TCRS XY plane at 0.0 m radius.
-2021_tmt_oad_WEB,ave a mode in which the vertical hook acceleration is no greater than 0.05g.
-2021_tmt_oad_WEB,ontal hoist position resolution shall be no greater than Ø 50.0 mm.
 2021_tmt_oad_WEB,The shutter mounted hoist control will be achieved using motion commands in a locally defined coordinate system.
 2021_tmt_oad_WEB,It shall be possible to deploy any of the enclosure mounted cranes without colliding with the telescope structure when the telescope is either zenith or horizon pointing. The volume which the cranes must clear is defined in the enclosure stay out volume drawing TMT.FAC.ENC-ENV (AD70).
 2021_tmt_oad_WEB,The shutter mounted hoist shall be rated for lifting up to 2 persons in a man basket.
@@ -615,7 +608,6 @@ source,reqs
 2021_tmt_oad_WEB,"There shall be a crane, hoist or other suitable handling equipment provided for servicing the elements of the LGSF laser system and beam transfer optics mounted on the inside of the -X ECRS elevation journal."
 2021_tmt_oad_WEB,"There shall be a mobile crane, with 2 tonne capacity, and 24 meters reach, located on the observatory floor."
 2021_tmt_oad_WEB,"An overhead crane shall be available in the Freight and delivery area and mechanical workshop: monorail crane with 5 tonnes capacity, hoist with continuously variable speed control from 0.5 to 5m per minute, trolley with continuously variable speed control from less than 0.2m per minute to at least 20m per minute."
-2021_tmt_oad_WEB,An overhead bridge crane shall be available in the M1 mirror coating area with the specifications:
 2021_tmt_oad_WEB,An overhead bridge crane shall be available in the M1 mirror coating area with a 1 ton (907 kg) capacity.
 2021_tmt_oad_WEB,An overhead bridge crane shall be available in the M1 mirror coating area with a hoist with continuously variable speed control from 0 to 4m per minute.
 2021_tmt_oad_WEB,An overhead monorail crane shall be available in the M1 mirror segment maintenance area with a 1 ton (907kg) capacity.
@@ -755,7 +747,6 @@ source,reqs
 2021_tmt_oad_WEB,All OSA software subsystems shall have the same CentOS 7 Linux 64-bit deployment platform.
 2021_tmt_oad_WEB,OSA software subsystems that require a private non-relational database or technical datastore shall integrate with the Observatory Databases through an HTTP-based interface.
 2021_tmt_oad_WEB,OSA software subsystems shall use Graphical user interfaces (GUIs) as the default for all normal scientific and technical operations.
-2021_tmt_oad_WEB,OSA software subsystems shall provide engineering GUIs if they include:
 2021_tmt_oad_WEB,OSA software subsystems shall provide engineering GUIs if they include low-level technical software parameter settings that are modifiable during operations.
 2021_tmt_oad_WEB,OSA software subsystems shall provide engineering GUIs if they include low-level engineering functions that are occasionally executed by an expert user.
 2021_tmt_oad_WEB,OSA software subsystems shall provide engineering GUIs if they are required to operate in standalone mode.
@@ -828,7 +819,6 @@ source,reqs
 2021_tmt_oad_WEB,The ESW UI standards shall provide a user interface solution that accommodates remote observing from the Headquarters facility and from designated remote locations.
 2021_tmt_oad_WEB,The ESW UI standards shall accommodate an observer eavesdropping mode.
 2021_tmt_oad_WEB,The ESW UI Standards shall include example applications showing typical user interface scenarios and solutions.
-2021_tmt_oad_WEB,ESW shall provide visualization UIs or tools that support the following applications:
 2021_tmt_oad_WEB,ESW shall provide visualization UIs or tools that support target acquisition support (acquisition and WFS).
 2021_tmt_oad_WEB,ESW shall provide visualization UIs or tools that support science data quick-look data quality assurance support.
 2021_tmt_oad_WEB,ESW shall provide visualization UIs or tools that support technical data presentation.
